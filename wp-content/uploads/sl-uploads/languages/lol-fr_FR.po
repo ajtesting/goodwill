@@ -1,0 +1,703 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pot lol\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-16 11:01+0100\n"
+"PO-Revision-Date: 2010-07-16 12:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: C:\\Program Files\\EasyPHP1-8\\www\\Vouille-Mairie\\wp-content\\plugins\\store-locator\n"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:5
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:521
+msgid "Add Locations"
+msgstr "Ajoutez un Lieu"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:26
+msgid "Successful Addition"
+msgstr "Ajout Réussie"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:80
+msgid "Type&nbsp;Address"
+msgstr "Indiquer&nbsp;l'adresse"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:83
+msgid "The General Address Format"
+msgstr "Structure Générale de l'Adresse "
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:83
+msgid "show/hide"
+msgstr "montrez/cachez"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:84
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:88
+msgid "Name of Location"
+msgstr "Nom du Lieu"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:85
+msgid "Address (Street - Line1)"
+msgstr "Adresse (Rue - Ligne 1)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:86
+msgid "Address (Street - Line2 - optional)"
+msgstr "Adresse (La Rue - Ligne 2 - Facultative)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:87
+msgid "City, State Zip"
+msgstr "Ville, Etat, Code Postal"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:89
+msgid "Address"
+msgstr "Adresse"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:89
+msgid "Street - Line1"
+msgstr "Rue (Ligne 1)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:90
+msgid "Street - Line 2 - optional"
+msgstr "Adresse (La Rue - Ligne 2 - Facultative)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:91
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:580
+msgid "City"
+msgstr "Ville"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:92
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:581
+msgid "State"
+msgstr "Etat"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:93
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:582
+msgid "Zip"
+msgstr "Code postal"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:95
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:584
+msgid "Description"
+msgstr "Description"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:96
+msgid "Tags (seperate with commas)"
+msgstr "Étiquettes (Séparez par des Virgules)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:97
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:586
+msgid "URL"
+msgstr "URL"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:98
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:585
+msgid "Hours"
+msgstr "Heures"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:99
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:587
+msgid "Phone"
+msgstr "Téléphone"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:100
+msgid "Image URL (shown with location)"
+msgstr "URL de l'image (affiché avec le lieu)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/add-locations.php:101
+msgid "Add Location"
+msgstr "Ajouter un lieu"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:15
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:34
+msgid "Successful Update"
+msgstr "Mise à Jour Réussie"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:18
+msgid "Update Your Google API Key"
+msgstr "Mettez à Jour Votre Clef de Google API"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:18
+msgid "Your API Key Status"
+msgstr "Etat de votre clé d'API"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:24
+msgid "Please Update Your Google API Key"
+msgstr "S.V.P, Mettez a Jour la Clef de Google API"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:27
+msgid "API Key Submitted"
+msgstr "La Clef d'API a été Soumise"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:30
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:524
+msgid "Google API Key"
+msgstr "Clef de l'API Google"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:30
+msgid "Get your Google API Key"
+msgstr "Obtenez votre clé de l'API Google"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:30
+msgid "You'll need to log in with your Google account on the page that opens up. If you don't have an account"
+msgstr "Vous allez devoir vous identifier sur votre compte Google dans la page qui va s'ouvrir. Si vous ne disposez pas d'un compte"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:30
+msgid "sign up here"
+msgstr "Inscrivez-vous ici"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:42
+msgid "Select Your Location"
+msgstr "Choisissez votre endroit"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:107
+msgid "Select Character Encoding"
+msgstr "Choisissez l'encodage des caractères"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/api-key.php:115
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:181
+msgid "Update"
+msgstr "Mise à jour"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:276
+msgid "Address "
+msgstr "Adresse"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:277
+msgid "Received status "
+msgstr "Status reçu"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:517
+msgid "Store Locator"
+msgstr "Store Locator"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:519
+msgid "News & Upgrades"
+msgstr "Nouveautés et mise à jour"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:520
+msgid "Manage Locations"
+msgstr "Gestion des 'Lieux'"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:522
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:36
+msgid "Map Designer"
+msgstr "Créateur de carte"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:524
+msgid "Localization"
+msgstr "Localisation"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:527
+msgid "ReadMe"
+msgstr "Lisez-moi"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:568
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "Choisir l'entête correspondant aux colonnes que vous désirez importer"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:568
+msgid "Leave headings for undesired columns unchanged"
+msgstr "Laisser vide les entêtes pour les colonnes non désirées"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:570
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:609
+msgid "Cancel"
+msgstr "Annuler"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:570
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:609
+msgid "Import Locations"
+msgstr "Importer des localités"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:576
+msgid "Choose"
+msgstr "Choisir"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:577
+msgid "Name"
+msgstr "Nom"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:578
+msgid "Street(Line1)"
+msgstr "Rue (ligne 1)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:579
+msgid "Street(Line2)"
+msgstr "Rue (ligne 2)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:583
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/mgmt-buttons-links.php:16
+msgid "Tags"
+msgstr "Tag (étiquette)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:588
+msgid "Image"
+msgstr "Image"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:589
+msgid "Is Private?"
+msgstr "Est privé ?"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:681
+msgid "You haven't activated this upgrade yet"
+msgstr "Vous n'avez pas encore activé cete mise à jour"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/functions.sl.php:681
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:135
+msgid "Activate"
+msgstr "Activer"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/localImport.php:10
+msgid "Successful Import"
+msgstr "Import réussi"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/localImport.php:16
+msgid "You May Only Use 'Select' Queries"
+msgstr "Vous pouvez seulement employer 'Select'"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/localImport.php:16
+msgid "Try Again"
+msgstr "Essai encore"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:36
+msgid "Designer"
+msgstr "Designer"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:108
+msgid "Normal"
+msgstr "Normal"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:109
+msgid "Satellite"
+msgstr "Vue satellitaire"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:110
+msgid "Hybrid"
+msgstr "Hybride"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:111
+msgid "Physical"
+msgstr "Physique"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:117
+msgid "You have switched from <strong>'wordpress-store-locator-location-finder'</strong> to <strong>'store-locator'</strong> --- great!<br>Now, please re-select your <b>'Home Icon'</b> and <b>'Destination Icon'</b> below, so that they show up properly on your store locator map."
+msgstr "Vous avez basculé de <strong>'wordpress-store-locator-location-finder'</strong> vers <strong>'store-locator'</strong> --- Félicitation <br> Maintenant, merci de re-selectionner votre <b>Icône Départ</b> et  <b>Icône de destination</b> en dessous, ainsi elles seront correctement affichées sur votre carte 'store locator'"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:120
+msgid "Defaults"
+msgstr "Défaut"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:121
+msgid "Choose Default Map Type Shown to Visitors"
+msgstr "Choisir le type de carte par défaut, accéssible aux visiteurs"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:123
+msgid "Allow User Search By City?"
+msgstr "Autoriser les utilisateurs à chercher par ville "
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:125
+msgid "Show Map Inset Box?"
+msgstr "Afficher la planisphère?"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:127
+msgid "Show Locations By Default When Map Loads?"
+msgstr "Afficher le lieu par défaut lors du chargement de la carte"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:129
+msgid "Number of Locations Shown By Default"
+msgstr "Nombre de lieu affichés par défaut"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:130
+msgid "Recommended Max: 50"
+msgstr "Recommandation : 50 max"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:133
+msgid "Allow User Search By Name of Location?"
+msgstr "Autoriser les utilisateurs à chercher par nom de lieu"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:135
+msgid "Labels"
+msgstr "Etiquette"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:137
+msgid "Address Input Label"
+msgstr "Etiquette pour le champ Adresse"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:139
+msgid "Radius Dropdown Label"
+msgstr "Etiquette pour le rayon"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:141
+msgid "Website URL Label"
+msgstr "Etiquette pour l'URL du siteWeb"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:143
+msgid "Instruction Message to Users"
+msgstr "Message d'instruction pour les utilisateur"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:148
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:149
+msgid "Zoom Level"
+msgstr "Niveau de Zoom"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:151
+msgid "Map Height"
+msgstr "Hauteur de la carte"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:153
+msgid "Map Width"
+msgstr "Largeur de la carte"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:155
+msgid "Radii Options<br>(in "
+msgstr "Option Rayon"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:156
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show</span>"
+msgstr "Note: Séparez chaque nombre avec une virgule ',' , et mettre des paratheseses '()' autour du rayon par défaut que vous voudriez afficher</span>"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:157
+msgid "Distance Unit"
+msgstr "Unité de distance"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:158
+msgid "Kilometers"
+msgstr "Kilomètres"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:159
+msgid "Miles"
+msgstr "Miles"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:168
+msgid "Design"
+msgstr "Design"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:171
+msgid "Choose Theme"
+msgstr "Choisir un thème"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:171
+msgid "No Theme Selected"
+msgstr "Pas de thème choisi"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:171
+msgid "Get&nbsp;Themes"
+msgstr "Obtenir&nbsp;des&nbsp;thèmes"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:172
+msgid "Remove Credits"
+msgstr "Ne pas afficher les Crédits"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:174
+msgid "Home Icon"
+msgstr "Icône Départ"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:176
+msgid "Destination Icon"
+msgstr "Icône Destination"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/map-designer.php:179
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "Vous désirez créer ou trouver une icône unique? Pour des idées, visite"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/mgmt-buttons-links.php:5
+msgid "Delete Selected"
+msgstr "Effacer la séléction"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/mgmt-buttons-links.php:5
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/mgmt-buttons-links.php:16
+msgid "You sure"
+msgstr "Êtes-vous sur ?"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/mgmt-buttons-links.php:16
+msgid "Tag Selected"
+msgstr "Tagger la séléction"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/mgmt-buttons-links.php:16
+msgid "Remove Tag From Selected"
+msgstr "Enlever les tags (étiquettes) de la sélection"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:17
+msgid "Current Version"
+msgstr "Version actuelle"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:17
+msgid "Upgrade to Newest Version"
+msgstr "Mettre à jour vers la version la plus récente"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:18
+msgid "(This upgrader preserves added themes, addons, images, icons, & language files as requested.  Remember to backup & check for upgrades often.)"
+msgstr "(Cet outil de mise à jour préserve les thèmes ajoutés, extensions, images, icônes & fichiers de language. Pensez a sauvegarder & vérifier régulièrement pour les mise à jours)"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:23
+msgid "<b>Note:</b> Your directory is <b>'wordpress-store-locator-location-finder'</b>. Please rename to <b>'store-locator'</b> to continue receiving notifications of future updates in your admin panel. After changing to <b>'store-locator'</b>, make sure to also update your icon URLs on the 'Map Designer' page."
+msgstr "<b>Note</b> Votre dossier est  <b>'wordpress-store-locator-location-finder'</b>.merci de renommer en  <b>'store-locator'</b> pour continuer à recevoir les futures mises à jour dans votre panneau d'administration. Après avoir changé en <b>'store-locator'</b>, assurez-vous de mettre également à jour les url des icônes sur la page 'créateur de carte'."
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:34
+#, php-format
+msgid "Please make sure that %s is writable."
+msgstr "S'il vous plait, assurez-vous que  %s n'est pas protégé en écriture."
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:46
+msgid "Latest News"
+msgstr "Dernières nouvelles"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:93
+msgid "Activation Keys"
+msgstr "Clé d'activation"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:121
+msgid "Key"
+msgstr "Clé"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:136
+msgid "Looking for more addons & themes"
+msgstr "Vous recherchez plus d'extensions et de thèmes ?"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:136
+msgid "It's all right here"
+msgstr "Tout est ici"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/news-upgrades.php:147
+msgid "Addons & Themes"
+msgstr "Extension & Thèmes"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/search-links.php:68
+msgid "for your search of"
+msgstr "pour votre recherche de "
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/search-links.php:68
+msgid "Clear&nbsp;Results"
+msgstr "Effacer&nbsp;les&nbsp;résultats"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/search-links.php:75
+msgid "Results"
+msgstr "Résultats"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/search-links.php:77
+msgid "total"
+msgstr "total"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/search-links.php:88
+msgid "Previous"
+msgstr "Précedent"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/search-links.php:97
+msgid "Next"
+msgstr "Suivant"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/via-latest.php:23
+msgid "Latest about Store Locator for WordPress"
+msgstr "Dernières nouvelles a propos de 'Store Locator' pour WordPress"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:13
+msgid "Search Locations"
+msgstr "Rechercher un lieu"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:102
+msgid "Current View"
+msgstr "Vue actuelle"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:102
+msgid "Change View"
+msgstr "Changer de vue"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:104
+msgid "Locations Per Page"
+msgstr "Lieux par page"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:112
+msgid "Change"
+msgstr "Changer"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:118
+msgid "Updater"
+msgstr "Outil de mise à jour"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:118
+msgid "Change Updater"
+msgstr "Changer d'outil de mise à jour"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:140
+msgid "Actions"
+msgstr "Actions"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:141
+msgid "ID"
+msgstr "ID"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:143
+msgid "Street"
+msgstr "Rue"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:144
+msgid "Street2"
+msgstr "Rue2"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:190
+msgid "Additional Information"
+msgstr "Informations complémentaires"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:225
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:226
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:227
+msgid "View"
+msgstr "Vues"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:231
+msgid "Edit"
+msgstr "Editer"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:231
+msgid "Delete"
+msgstr "Effacer"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:255
+msgid "No Locations Showing for this Search of "
+msgstr "Aucun Lieu trouvé Pour Cette Recherche"
+
+#: C:\Program
+#: Files\EasyPHP1-8\www\Vouille-Mairie\wp-content\plugins\store-locator/view-locations.php:255
+msgid "No Locations Currently in Database"
+msgstr "Aucun lieu Actuellement Dans la Base de Données"
+

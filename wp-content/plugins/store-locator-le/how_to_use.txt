@@ -1,0 +1,29 @@
+<p>To use Store Locator Plus you only need to add a simple 
+shortcode to any page where you want to show a store search form and interactive
+map.  For example:<br/>
+<code>[STORE-LOCATOR]</code><br/>
+<br/>
+You can change more details about how the map renders, what options are shown
+on the search form, and other details via the admin panel Store Locator Plus
+settings panel.   This is also where you'll add or modify location data.
+<br/>
+<br/>
+<strong>Can't Add Locations?</strong><br/>
+Before you can add locations you must enter the Google Maps API Key on the
+Store Locator Plus settings page.  Once you have done that you will see a
+new admin panel menu "SLP Locations" that will allow you to add and edit the
+locations.
+<br/>
+<br/>
+<strong>Need More Assistance?</strong><br/><br/>
+For help setting up and using this plugin, please visit the 
+<strong><a href="http://redmine.cybersprocket.com/projects/mc-closeststore/wiki" target="newinfo">
+Store Locator Plus Knowledgebase</a></strong>.<br/> We recommend registering on the site and 
+using the forums to post questions.  It is the best way to get a response from our development team.
+<br/><br/>Register here:<br/>
+<a href="http://redmine.cybersprocket.com/account/register">
+http://redmine.cybersprocket.com/account/register</a>
+<br/><br/>Review the forum here:<br/>
+<a href="http://redmine.cybersprocket.com/projects/commercial-products/boards">
+http://redmine.cybersprocket.com/projects/commercial-products/boards</a><br/>
+</p>

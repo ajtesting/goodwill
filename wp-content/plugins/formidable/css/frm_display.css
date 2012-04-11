@@ -1,0 +1,25 @@
+.with_frm_style label{font-size:12px;float:none;text-align:left;margin:0;padding:0;width:auto;}
+.with_frm_style label.frm_primary_label{font-weight:bold;display:block;}
+.with_frm_style .frm_top_container label.frm_primary_label{display:block;float:none;width:auto;}
+.with_frm_style .frm_left_container label.frm_primary_label{float:left;padding-right:10px;width:150px;}
+.with_frm_style .frm_right_container label.frm_primary_label{float:right;padding-left:10px;width:150px;}
+.with_frm_style .frm_none_container label.frm_primary_label{display:none;}
+.with_frm_style .frm_hidden_container label.frm_primary_label{visibility:hidden;}
+.with_frm_style .form-field{margin-top:15px;}
+.with_frm_style .frm_blank_field label, .with_frm_style .frm_error{color:#be2e17;}
+.with_frm_style .frm_blank_field input, .with_frm_style .frm_blank_field textarea, .with_frm_style .frm_blank_field select, .with_frm_style .frm_blank_field #recaptcha_area{border:1px solid #be2e17;}
+.with_frm_style .frm_required{color:#ff0000;font-weight:bold;}
+.with_frm_style .frm_checkbox, .with_frm_style .frm_radio{display:block;margin:0;}
+.with_frm_style .frm_left_container .frm_checkbox, .with_frm_style .frm_left_container .frm_radio{margin-left:160px;}
+.with_frm_style fieldset{border:none;margin:0;padding:0;}
+.with_frm_style p.submit{padding-top:20px;padding-bottom:20px;}
+.with_frm_style p.description, .with_frm_style div.description, .with_frm_style .frm_error{margin:0;padding:0;font-size:11px;font-weight:normal;text-align:left;font-style:normal;}
+.with_frm_style .frm_left_container .description, .with_frm_style .frm_left_container .frm_error, .with_frm_style .frm_left_container .frm_description{margin-left:160px;}
+.with_frm_style .frm_error{font-weight:bold;}
+.with_frm_style .frm_form_fields input, .with_frm_style .frm_form_fields select, .with_frm_style .frm_form_fields textarea{font-size:13px;margin-bottom:0;}
+.with_frm_style .frm_form_fields input, #wpcontent .with_frm_style .frm_form_fields select, .with_frm_style .frm_form_fields select, .with_frm_style .frm_form_fields textarea{border-width:1px;border-style:solid;width:400px;font-size:13px;padding:2px;}
+.with_frm_style .frm_form_fields input.auto_width, .with_frm_style .frm_form_fields select.auto_width, .with_frm_style .frm_form_fields textarea.auto_width{width:auto;}
+.frm_set_select .with_frm_style .frm_form_fields select, .frm_set_select .with_frm_style .frm_form_fields select.auto_width{width:95%;}
+.with_frm_style .frm_radio label, .with_frm_style .frm_checkbox label{display:inline;}
+.with_frm_style input[type="radio"], .with_frm_style input[type="checkbox"]{width:auto;margin-right:3px;}
+.with_frm_style .frm_message, .with_frm_style .frm_message p{font-size:14px;margin:5px 0 15px;padding:5px 10px;background-color:#FFFFE0;border:1px solid #E6DB55;color:#444444;}

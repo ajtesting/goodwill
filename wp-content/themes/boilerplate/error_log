@@ -1,0 +1,1 @@
+[08-Mar-2012 10:11:08] PHP Fatal error:  Call to undefined function get_header() in /home/elasticz/public_html/goodwill/wp-content/themes/boilerplate/index.php on line 15

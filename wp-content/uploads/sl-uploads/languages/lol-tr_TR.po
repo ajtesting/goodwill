@@ -1,0 +1,609 @@
+# Copyright (C) 2010 Store Locator
+# This file is distributed under the same license as the Store Locator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Locator 1.2.41\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/store-locator\n"
+"POT-Creation-Date: 2011-01-15 13:07:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-03-23 22:03+0100\n"
+"Last-Translator: Rene <info@wpwebshop.com>\n"
+"Language-Team: Translation by WordPressWebshop.com <info@wpwebshop.com>\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+
+#: variables.sl.php:10
+#: view-locations.php:13
+#: functions.sl.php:520
+msgid "Manage Locations"
+msgstr "Konumları Yönet"
+
+#: news-upgrades.php:11
+msgid "Update Central"
+msgstr "Güncelleme Merkezi"
+
+#: news-upgrades.php:17
+msgid "Current Version"
+msgstr "Şimdiki Sürüm"
+
+#: news-upgrades.php:17
+msgid "Upgrade to Newest Version"
+msgstr "Son Sürüme Yükselt"
+
+#: news-upgrades.php:18
+msgid "(This upgrader preserves added themes, addons, images, icons, & language files as requested.  Remember to backup & check for upgrades often.)"
+msgstr "(Bu güncelleyici eklenmiş olan temaları, eklentileri, resimleri, ikonları ve dil dosyalarını istendiği üzere korur. Sık sık yedekleme yapmayı ve güncellemeleri kontrol etmeyi unutmayın.)"
+
+#: news-upgrades.php:23
+msgid "<b>Note:</b> Your directory is <b>'wordpress-store-locator-location-finder'</b>. Please rename to <b>'store-locator'</b> to continue receiving notifications of future updates in your admin panel. After changing to <b>'store-locator'</b>, make sure to also update your icon URLs on the 'Map Designer' page."
+msgstr "<b>Not:</b> Hedef dizininiz <b>'wordpress-store-locator-location-finder'</b>'dir. Lütfen ismini <b>'store-locator'</b> olarak değiştirin ki yönetim paneline yeni güncellemeler hakkında bildirim almaya devam edebilesiniz. Dizin adını <b>'store-locator'</b>'a değiştirdikten sonra, ikon URL'lerinizi de 'Harita Tasarlayıcı' sayfasında güncellemeyi unutmayın."
+
+#: news-upgrades.php:34
+msgid "Please make sure that %s is writable."
+msgstr "Lütfen %s'in yazılabilir olduğundan emin olun."
+
+#: news-upgrades.php:46
+msgid "Latest News"
+msgstr "Son Haberler"
+
+#: news-upgrades.php:93
+msgid "Activation Keys"
+msgstr "Etkinleştirme Kodları"
+
+#: news-upgrades.php:121
+msgid "Key"
+msgstr "Kod"
+
+#: news-upgrades.php:135
+#: functions.sl.php:681
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: news-upgrades.php:136
+msgid "Looking for more addons & themes"
+msgstr "Daha fazla eklenti ve tema aranıyor"
+
+#: news-upgrades.php:136
+msgid "It's all right here"
+msgstr "Hepsi burada"
+
+#: news-upgrades.php:147
+msgid "Addons & Themes"
+msgstr "Eklentiler ve Temalar"
+
+#: mgmt-buttons-links.php:5
+msgid "Delete Selected"
+msgstr "Seçileni Sil"
+
+#: mgmt-buttons-links.php:5
+#: mgmt-buttons-links.php:18
+msgid "You sure"
+msgstr "Emin misiniz"
+
+#: mgmt-buttons-links.php:18
+#: view-locations.php:148
+#: functions.sl.php:583
+msgid "Tags"
+msgstr "Etiketler"
+
+#: mgmt-buttons-links.php:18
+msgid "Tag Selected"
+msgstr "Seçileni Etiketle"
+
+#: mgmt-buttons-links.php:18
+msgid "Remove Tag From Selected"
+msgstr "Seçilenden Etiketi Kaldır"
+
+#: api-key.php:15
+#: map-designer.php:34
+msgid "Successful Update"
+msgstr "Başarılı Güncelleme"
+
+#: api-key.php:18
+msgid "Update Your Google API Key"
+msgstr "Google API Kodunuzu Güncelleyin"
+
+#: api-key.php:18
+msgid "Your API Key Status"
+msgstr "API Kod Durumunuz"
+
+#: api-key.php:24
+msgid "Please Update Your Google API Key"
+msgstr "Lütfen Google API Kodunuzu Güncelleyin"
+
+#: api-key.php:27
+msgid "API Key Submitted"
+msgstr "API Kodu Gönderildi"
+
+#: api-key.php:30
+#: functions.sl.php:524
+msgid "Google API Key"
+msgstr "Google API Kodu"
+
+#: api-key.php:30
+msgid "Get your Google API Key"
+msgstr "Google API Kodunuzu Alın"
+
+#: api-key.php:30
+msgid "You'll need to log in with your Google account on the page that opens up. If you don't have an account"
+msgstr "Açılan pencerede Google hesabınızla giriş yapmanız gerekecek. Hesabınız yoksa"
+
+#: api-key.php:30
+msgid "sign up here"
+msgstr "buradan kaydolun"
+
+#: api-key.php:42
+msgid "Select Your Location"
+msgstr "Konumunuzu Seçin"
+
+#: api-key.php:107
+msgid "Select Character Encoding"
+msgstr "Karakter Kodlamayı Seçin"
+
+#: api-key.php:115
+#: view-locations.php:188
+#: map-designer.php:181
+msgid "Update"
+msgstr "Güncelle"
+
+#: view-locations.php:13
+msgid "Search Locations"
+msgstr "Konumları Ara"
+
+#: view-locations.php:102
+msgid "Current View"
+msgstr "Şimdiki Görünüm"
+
+#: view-locations.php:102
+msgid "Change View"
+msgstr "Görünümü Değiştir"
+
+#: view-locations.php:104
+msgid "Locations Per Page"
+msgstr "Sayfa Başına Düşen Konum"
+
+#: view-locations.php:105
+#: functions.sl.php:576
+msgid "Choose"
+msgstr "Seç"
+
+#: view-locations.php:112
+msgid "Change"
+msgstr "Değiştir"
+
+#: view-locations.php:118
+msgid "Updater"
+msgstr "Güncelleyici"
+
+#: view-locations.php:118
+msgid "Change Updater"
+msgstr "Güncelleyiciyi Değiştir"
+
+#: view-locations.php:140
+msgid "Actions"
+msgstr "Eylemler"
+
+#: view-locations.php:141
+msgid "ID"
+msgstr "ID"
+
+#: view-locations.php:142
+#: functions.sl.php:577
+msgid "Name"
+msgstr "Ad"
+
+#: view-locations.php:143
+msgid "Street"
+msgstr "Sokak"
+
+#: view-locations.php:144
+msgid "Street2"
+msgstr "Sokak 2"
+
+#: view-locations.php:145
+#: view-locations.php:185
+#: add-locations.php:91
+#: functions.sl.php:580
+msgid "City"
+msgstr "İlçe"
+
+#: view-locations.php:146
+#: view-locations.php:186
+#: add-locations.php:92
+#: functions.sl.php:581
+msgid "State"
+msgstr "İl"
+
+#: view-locations.php:147
+#: view-locations.php:187
+#: add-locations.php:93
+#: functions.sl.php:582
+msgid "Zip"
+msgstr "Alan Kodu"
+
+#: view-locations.php:151
+#: view-locations.php:191
+#: add-locations.php:95
+#: functions.sl.php:584
+msgid "Description"
+msgstr "Açıklama"
+
+#: view-locations.php:152
+#: view-locations.php:193
+#: add-locations.php:97
+#: functions.sl.php:586
+msgid "URL"
+msgstr "URL"
+
+#: view-locations.php:153
+#: view-locations.php:194
+#: add-locations.php:98
+#: functions.sl.php:585
+msgid "Hours"
+msgstr "Saatler"
+
+#: view-locations.php:154
+#: view-locations.php:195
+#: add-locations.php:99
+#: functions.sl.php:587
+msgid "Phone"
+msgstr "Telefon"
+
+#: view-locations.php:155
+#: functions.sl.php:588
+msgid "Image"
+msgstr "Resim"
+
+#: view-locations.php:180
+#: add-locations.php:80
+msgid "Type&nbsp;Address"
+msgstr "Adresi Girin"
+
+#: view-locations.php:182
+#: add-locations.php:84
+#: add-locations.php:88
+msgid "Name of Location"
+msgstr "Konum Adı"
+
+#: view-locations.php:183
+#: add-locations.php:89
+msgid "Address"
+msgstr "Adres"
+
+#: view-locations.php:183
+#: add-locations.php:89
+msgid "Street - Line1"
+msgstr "Sokak - 1. Satır"
+
+#: view-locations.php:184
+#: add-locations.php:90
+msgid "Street - Line 2 - optional"
+msgstr "Sokak - 2. Satır (Opsiyonel)"
+
+#: view-locations.php:188
+#: functions.sl.php:570
+#: functions.sl.php:609
+msgid "Cancel"
+msgstr "İptal Et"
+
+#: view-locations.php:190
+#: add-locations.php:94
+msgid "Additional Information"
+msgstr "Ek Bilgi"
+
+#: view-locations.php:192
+#: add-locations.php:96
+msgid "Tags (seperate with commas)"
+msgstr "Etiketler (virgül ile ayırın)"
+
+#: view-locations.php:196
+#: add-locations.php:100
+msgid "Image URL (shown with location)"
+msgstr "Resim URL'si (konumuyla gösterilir)"
+
+#: view-locations.php:225
+#: view-locations.php:226
+#: view-locations.php:227
+msgid "View"
+msgstr "Görünüm"
+
+#: view-locations.php:231
+msgid "Edit"
+msgstr "Düzenle"
+
+#: view-locations.php:231
+msgid "Delete"
+msgstr "Sil"
+
+#: view-locations.php:255
+msgid "No Locations Showing for this Search of "
+msgstr "... Aramasıyla ilgili Hiçbir Konum Gösterilmiyor"
+
+#: view-locations.php:255
+msgid "No Locations Currently in Database"
+msgstr "Veri Tabanında Mevcut Konum Yoktur"
+
+#: view-locations.php:256
+#: add-locations.php:5
+#: functions.sl.php:521
+msgid "Add Locations"
+msgstr "Konum Ekle"
+
+#: add-locations.php:26
+msgid "Successful Addition"
+msgstr "Başarılı Ekleme"
+
+#: add-locations.php:83
+msgid "The General Address Format"
+msgstr "Genel Adres Formatı"
+
+#: add-locations.php:83
+msgid "show/hide"
+msgstr "göster/gizle"
+
+#: add-locations.php:85
+msgid "Address (Street - Line1)"
+msgstr "Adres (Sokak - 1. Satır)"
+
+#: add-locations.php:86
+msgid "Address (Street - Line2 - optional)"
+msgstr "Adres (Sokak - 2. Satır - opsiyonel)"
+
+#: add-locations.php:87
+msgid "City, State Zip"
+msgstr "İlçe, İl, Alan Kodu"
+
+#: add-locations.php:101
+msgid "Add Location"
+msgstr "Konum Ekle"
+
+#: search-links.php:68
+msgid "for your search of"
+msgstr "... hakkındaki aramanız için"
+
+#: search-links.php:68
+msgid "Clear&nbsp;Results"
+msgstr "Sonuçları Temizle"
+
+#: search-links.php:75
+msgid "Results"
+msgstr "Sonuçlar"
+
+#: search-links.php:77
+msgid "total"
+msgstr "toplam"
+
+#: search-links.php:88
+msgid "Previous"
+msgstr "Önceki"
+
+#: search-links.php:97
+msgid "Next"
+msgstr "Sonraki"
+
+#: localImport.php:10
+msgid "Successful Import"
+msgstr "Başarılı Aktarım"
+
+#: localImport.php:16
+msgid "You May Only Use 'Select' Queries"
+msgstr "Sadece 'Seçilmiş' Sorguları Kullanabilirsiniz"
+
+#: localImport.php:16
+msgid "Try Again"
+msgstr "Tekrar Deneyin"
+
+#: map-designer.php:36
+#: functions.sl.php:522
+msgid "Map Designer"
+msgstr "Harita Tasarlayıcı"
+
+#: map-designer.php:36
+msgid "Designer"
+msgstr "Tasarlayıcı"
+
+#: map-designer.php:108
+msgid "Normal"
+msgstr "Normal"
+
+#: map-designer.php:109
+msgid "Satellite"
+msgstr "Uydu"
+
+#: map-designer.php:110
+msgid "Hybrid"
+msgstr "Hibrid"
+
+#: map-designer.php:111
+msgid "Physical"
+msgstr "Fiziksel"
+
+#: map-designer.php:117
+msgid "You have switched from <strong>'wordpress-store-locator-location-finder'</strong> to <strong>'store-locator'</strong> --- great!<br>Now, please re-select your <b>'Home Icon'</b> and <b>'Destination Icon'</b> below, so that they show up properly on your store locator map."
+msgstr "<strong>'wordpress-store-locator-location-finder'</strong>'dan <strong>'store-locator'</strong>'a değiştirmiş bulunuyorsunuz --- harika!<br>Şimdi, lütfen aşağıdan <b>'Ev İkonu'</b>nuzu ve <b>'Hedef İkonu'nuzu</b> değiştirin, böylece mağaza bulucu haritanızda düzgün bir şekilde görünsünler."
+
+#: map-designer.php:120
+msgid "Defaults"
+msgstr "Varsayılanlar"
+
+#: map-designer.php:121
+msgid "Choose Default Map Type Shown to Visitors"
+msgstr "Ziyaretçilere Gösterilen Varsayılan Harita Tipini Seç"
+
+#: map-designer.php:123
+msgid "Allow User Search By City?"
+msgstr "Kullanıcının Şehir İle Aramasına İzin Ver?"
+
+#: map-designer.php:125
+msgid "Show Map Inset Box?"
+msgstr "Harita İç Kutusunu Göster?"
+
+#: map-designer.php:127
+msgid "Show Locations By Default When Map Loads?"
+msgstr "Harita Yüklendiğinde Konumları Varsayılan Şekilde Göster"
+
+#: map-designer.php:129
+msgid "Number of Locations Shown By Default"
+msgstr "Varsayılan Şekilde Gösterilen Konum Sayısı"
+
+#: map-designer.php:130
+msgid "Recommended Max: 50"
+msgstr "Önerilen En Fazla: 50"
+
+#: map-designer.php:133
+msgid "Allow User Search By Name of Location?"
+msgstr "Kullanıcının Konum Adı İle Aramasına İzin Ver?"
+
+#: map-designer.php:135
+msgid "Labels"
+msgstr "Yaftalar"
+
+#: map-designer.php:137
+msgid "Address Input Label"
+msgstr "Adres Giriş Yaftası"
+
+#: map-designer.php:139
+msgid "Radius Dropdown Label"
+msgstr "Yarıçap Düşürme Yaftası"
+
+#: map-designer.php:141
+msgid "Website URL Label"
+msgstr "Websitesi URL Yaftası"
+
+#: map-designer.php:143
+msgid "Instruction Message to Users"
+msgstr "Kullanıcılara Talimat Mesajı"
+
+#: map-designer.php:148
+msgid "Dimensions"
+msgstr "Boyutlar"
+
+#: map-designer.php:149
+msgid "Zoom Level"
+msgstr "Yaklaştırma Seviyesi"
+
+#: map-designer.php:151
+msgid "Map Height"
+msgstr "Harita Yüksekliği"
+
+#: map-designer.php:153
+msgid "Map Width"
+msgstr "Harita Genişliği"
+
+#: map-designer.php:156
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show</span>"
+msgstr "Not: Her sayıyı virgül ',' ile ayırın ve göstermek istediğiniz varsayılan yarıçapın çevresine parantez '()' koyun.</span>"
+
+#: map-designer.php:157
+msgid "Distance Unit"
+msgstr "Uzaklık Birimi"
+
+#: map-designer.php:158
+msgid "Kilometers"
+msgstr "Kilometre"
+
+#: map-designer.php:159
+msgid "Miles"
+msgstr "Mil"
+
+#: map-designer.php:168
+msgid "Design"
+msgstr "Tasarım"
+
+#: map-designer.php:171
+msgid "Choose Theme"
+msgstr "Temayı Seç"
+
+#: map-designer.php:171
+msgid "No Theme Selected"
+msgstr "Tema Seçilmedi"
+
+#: map-designer.php:171
+msgid "Get&nbsp;Themes"
+msgstr "Tema Al"
+
+#: map-designer.php:172
+msgid "Remove Credits"
+msgstr "Tanıtım Yazısını Kaldır"
+
+#: map-designer.php:174
+msgid "Home Icon"
+msgstr "Ev İkonu"
+
+#: map-designer.php:176
+msgid "Destination Icon"
+msgstr "Hedef İkonu"
+
+#: map-designer.php:179
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "Benzersiz bir ikon aramak veya yaratmak  mı istiyorsunuz? Fikirler için, şurayı ziyaret edin ..."
+
+#. #-#-#-#-#  plugin.pot (Store Locator 1.2.40)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: functions.sl.php:517
+msgid "Store Locator"
+msgstr "Store Locator"
+
+#: functions.sl.php:519
+msgid "News & Upgrades"
+msgstr "Haberler ve Güncellemeler"
+
+#: functions.sl.php:524
+msgid "Localization"
+msgstr "Yerelleştirme"
+
+#: functions.sl.php:527
+msgid "ReadMe"
+msgstr "Beni Oku"
+
+#: functions.sl.php:568
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "Aktarmak İstediğiniz Sütunlara Uyan Başlıkları Seçin"
+
+#: functions.sl.php:568
+msgid "Leave headings for undesired columns unchanged"
+msgstr "İstenmeyen sütunların değişmemiş kalması için başlıkları öylece bırakın"
+
+#: functions.sl.php:570
+#: functions.sl.php:609
+msgid "Import Locations"
+msgstr "Konumları Aktar"
+
+#: functions.sl.php:578
+msgid "Street(Line1)"
+msgstr "Sokak (1. Satır)"
+
+#: functions.sl.php:579
+msgid "Street(Line2)"
+msgstr "Sokak (2. Satır)"
+
+#: functions.sl.php:589
+msgid "Is Private?"
+msgstr "Özel mi?"
+
+#: functions.sl.php:681
+msgid "You haven't activated this upgrade yet"
+msgstr "Bu güncellemeyi henüz etkinleştirmediniz"
+
+#: via-latest.php:23
+msgid "Latest about Store Locator for WordPress"
+msgstr "WordPress Mağaza Bulucusu Hakkında Son Gelişmeler"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.viadat.com/store-locator"
+msgstr "http://www.viadat.com/store-locator"
+
+#. Description of the plugin/theme
+msgid "A store locator plugin that gives you the ability to effectively show important locations (stores, buildings, points of interest, etc.) in an easily searchable manner using Google Maps."
+msgstr "Google Haritaları kullanarak kolayca aranabilir bir şekilde önemli yerleri (mağazalar, binalar, ilginç yerler, vs.) etkin bir şekilde gösterme yeteneği sağlayan bir mağaza bulma eklentisi."
+
+#. Author of the plugin/theme
+msgid "Viadat Creations"
+msgstr "Viadat Creations"
+
+#. Author URI of the plugin/theme
+msgid "http://www.viadat.com"
+msgstr "http://www.viadat.com"
+

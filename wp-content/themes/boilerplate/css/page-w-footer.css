@@ -1,0 +1,38 @@
+#partners {
+	background: url(../images/partners-bg.png) no-repeat;
+	clear: both;
+	width: 975px;
+	height: 218px;
+	background-position: 3px 0;
+	padding: 0 130px;
+	margin-left: -133px;
+}
+
+#partners #partners-left {
+	display: block;
+	float: left;
+	clear: left;
+	width: 423px;
+	height: 218px;
+}
+
+
+
+#partners #partners-right {
+	display: block;
+	width: 423px;
+	height: 218px;
+	float: left;
+	clear: right;
+	margin-left: 129px;
+}
+
+#partners a {
+	display: block;
+	width: 141px;
+	height: 109px;
+	float: left;
+}
+
+
+

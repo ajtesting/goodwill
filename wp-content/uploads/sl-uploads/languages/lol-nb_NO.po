@@ -1,0 +1,620 @@
+# Translation of the WordPress plugin Store Locator 1.2.39.3 by Viadat Creations.
+# Copyright (C) 2010 Viadat Creations
+# This file is distributed under the same license as the Store Locator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/store-locator\n"
+"POT-Creation-Date: 2010-02-18 14:14+0000\n"
+"PO-Revision-Date: 2010-08-17 20:51+0100\n"
+"Last-Translator: Fastfrilans <post@fastfrilans.no>\n"
+"Language-Team:  <post@fastfrilans.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Norwegian Bokmal\n"
+"X-Poedit-Country: NORWAY\n"
+
+#: add-locations.php:5
+#: functions.sl.php:521
+#: view-locations.php:256
+msgid "Add Locations"
+msgstr "Legg til sted"
+
+#: add-locations.php:26
+msgid "Successful Addition"
+msgstr "Vellykket lagt til"
+
+#: add-locations.php:80
+#: view-locations.php:180
+msgid "Type&nbsp;Address"
+msgstr "skriv&nbsp;Addresse"
+
+#: add-locations.php:83
+msgid "The General Address Format"
+msgstr "standard addresseformat"
+
+#: add-locations.php:83
+msgid "show/hide"
+msgstr "vis/skjul"
+
+#: add-locations.php:84
+#: add-locations.php:88
+#: view-locations.php:182
+msgid "Name of Location"
+msgstr "Navn på sted"
+
+#: add-locations.php:85
+msgid "Address (Street - Line1)"
+msgstr "Gateaddresse (gate - linje1)"
+
+#: add-locations.php:86
+msgid "Address (Street - Line2 - optional)"
+msgstr "Gateaddresse (gate - linje2 - valgfritt)"
+
+#: add-locations.php:87
+msgid "City, State Zip"
+msgstr "By, Postnummer"
+
+#: add-locations.php:89
+#: view-locations.php:183
+msgid "Address"
+msgstr "Addresse"
+
+#: add-locations.php:89
+#: view-locations.php:183
+msgid "Street - Line1"
+msgstr "Gate - linje 1"
+
+#: add-locations.php:90
+#: view-locations.php:184
+msgid "Street - Line 2 - optional"
+msgstr "Gate - linje 2 - valgfritt"
+
+#: add-locations.php:91
+#: functions.sl.php:580
+#: view-locations.php:145
+#: view-locations.php:185
+msgid "City"
+msgstr "By"
+
+#: add-locations.php:92
+#: functions.sl.php:581
+#: view-locations.php:146
+#: view-locations.php:186
+msgid "State"
+msgstr "Fylke"
+
+#: add-locations.php:93
+#: functions.sl.php:582
+#: view-locations.php:147
+#: view-locations.php:187
+msgid "Zip"
+msgstr "Postnummer"
+
+#: add-locations.php:95
+#: functions.sl.php:584
+#: view-locations.php:151
+#: view-locations.php:191
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: add-locations.php:96
+#: view-locations.php:192
+msgid "Tags (seperate with commas)"
+msgstr "Tags (skill med komma)"
+
+#: add-locations.php:97
+#: functions.sl.php:586
+#: view-locations.php:152
+#: view-locations.php:193
+msgid "URL"
+msgstr "URL"
+
+#: add-locations.php:98
+#: functions.sl.php:585
+#: view-locations.php:153
+#: view-locations.php:194
+msgid "Hours"
+msgstr "Timer"
+
+#: add-locations.php:99
+#: functions.sl.php:587
+#: view-locations.php:154
+#: view-locations.php:195
+msgid "Phone"
+msgstr "Telefon"
+
+#: add-locations.php:100
+#: view-locations.php:196
+msgid "Image URL (shown with location)"
+msgstr "Bilde URL (viser ved steds markør)"
+
+#: add-locations.php:101
+msgid "Add Location"
+msgstr "Legg til sted"
+
+#: api-key.php:15
+#: map-designer.php:34
+msgid "Successful Update"
+msgstr "Vellykket oppdatering"
+
+#: api-key.php:18
+msgid "Update Your Google API Key"
+msgstr "Oppdater din Google API nøkkel"
+
+#: api-key.php:18
+msgid "Your API Key Status"
+msgstr "Din API nøkkel status"
+
+#: api-key.php:24
+msgid "Please Update Your Google API Key"
+msgstr "Vennligst oppdater din Google API nøkkel"
+
+#: api-key.php:27
+msgid "API Key Submitted"
+msgstr "API nøkkel innsendt"
+
+#: api-key.php:30
+#: functions.sl.php:524
+msgid "Google API Key"
+msgstr "Google API nøkkel"
+
+#: api-key.php:30
+msgid "Get your Google API Key"
+msgstr "Skaff deg din Google API nøkkel"
+
+#: api-key.php:30
+msgid "You'll need to log in with your Google account on the page that opens up. If you don't have an account"
+msgstr "Du må logge inn med din Google konto på siden som åpner. Hvis du ikke har en konto"
+
+#: api-key.php:30
+msgid "sign up here"
+msgstr "Registrer deg her"
+
+#: api-key.php:42
+msgid "Select Your Location"
+msgstr "Velg din plassering"
+
+#: api-key.php:107
+msgid "Select Character Encoding"
+msgstr "Velg tegnkoding"
+
+#: api-key.php:115
+#: map-designer.php:181
+#: view-locations.php:188
+msgid "Update"
+msgstr "Oppdater"
+
+#: functions.sl.php:276
+msgid "Address "
+msgstr "Adresse"
+
+#: functions.sl.php:277
+msgid "Received status "
+msgstr "Mottatt status"
+
+#. #-#-#-#-#  plugin.pot (Store Locator 1.2.39.3)  #-#-#-#-#
+#. Plugin Name of an extension
+#: functions.sl.php:517
+msgid "Store Locator"
+msgstr "Store Locator"
+
+#: functions.sl.php:519
+msgid "News & Upgrades"
+msgstr "Nyheter & oppgraderinger"
+
+#: functions.sl.php:520
+#: variables.sl.php:10
+#: view-locations.php:13
+msgid "Manage Locations"
+msgstr "rediger steder"
+
+#: functions.sl.php:522
+#: map-designer.php:36
+msgid "Map Designer"
+msgstr "Kart designer"
+
+#: functions.sl.php:524
+msgid "Localization"
+msgstr "Lokalisering"
+
+#: functions.sl.php:527
+msgid "ReadMe"
+msgstr "Les meg"
+
+#: functions.sl.php:568
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "velg tittel som stemmer overens med kolonnene du ønsker å impotere"
+
+#: functions.sl.php:568
+msgid "Leave headings for undesired columns unchanged"
+msgstr "la posisjonen til uønskede titler være uendret "
+
+#: functions.sl.php:570
+#: functions.sl.php:609
+#: view-locations.php:188
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: functions.sl.php:570
+#: functions.sl.php:609
+msgid "Import Locations"
+msgstr "Import steder"
+
+#: functions.sl.php:576
+#: view-locations.php:105
+msgid "Choose"
+msgstr "Velg"
+
+#: functions.sl.php:577
+#: view-locations.php:142
+msgid "Name"
+msgstr "Navn"
+
+#: functions.sl.php:578
+msgid "Street(Line1)"
+msgstr "Gate(linje1)"
+
+#: functions.sl.php:579
+msgid "Street(Line2)"
+msgstr "Gate(linje2)"
+
+#: functions.sl.php:583
+#: mgmt-buttons-links.php:16
+#: view-locations.php:148
+msgid "Tags"
+msgstr "Tags"
+
+#: functions.sl.php:588
+#: view-locations.php:155
+msgid "Image"
+msgstr "Bilde"
+
+#: functions.sl.php:589
+msgid "Is Private?"
+msgstr "Er privat?"
+
+#: functions.sl.php:681
+msgid "You haven't activated this upgrade yet"
+msgstr "Du har ikke aktivisert denne oppdateringen enda"
+
+#: functions.sl.php:681
+#: news-upgrades.php:135
+msgid "Activate"
+msgstr "Aktiver"
+
+#: localImport.php:10
+msgid "Successful Import"
+msgstr "Vellykket import"
+
+#: localImport.php:16
+msgid "You May Only Use 'Select' Queries"
+msgstr "Du kan kun bruke 'valgt' Søkekriterie"
+
+#: localImport.php:16
+msgid "Try Again"
+msgstr "Prøv igjen"
+
+#: map-designer.php:36
+msgid "Designer"
+msgstr "Designer"
+
+#: map-designer.php:108
+msgid "Normal"
+msgstr "Normal"
+
+#: map-designer.php:109
+msgid "Satellite"
+msgstr "Satelitt"
+
+#: map-designer.php:110
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: map-designer.php:111
+msgid "Physical"
+msgstr "Fysisk"
+
+#: map-designer.php:117
+msgid "You have switched from <strong>'wordpress-store-locator-location-finder'</strong> to <strong>'store-locator'</strong> --- great!<br>Now, please re-select your <b>'Home Icon'</b> and <b>'Destination Icon'</b> below, so that they show up properly on your store locator map."
+msgstr "Du har endret fra <strong>'wordpress-store-locator-location-finder'</strong> til <strong>'store-locator'</strong> --- supert!<br>Vennligst velg ditt <b>'Hjem ikon'</b> og <b>'Mål ikon'</b> under, slik at de vises korrekt i ditt store locator kart."
+
+#: map-designer.php:120
+msgid "Defaults"
+msgstr "Standardverdier"
+
+#: map-designer.php:121
+msgid "Choose Default Map Type Shown to Visitors"
+msgstr "Velg standard kart å vise besøkende"
+
+#: map-designer.php:123
+msgid "Allow User Search By City?"
+msgstr "Tillat besøkende å søke byer?"
+
+#: map-designer.php:125
+msgid "Show Map Inset Box?"
+msgstr "Vis kart i innfelt box?"
+
+#: map-designer.php:127
+msgid "Show Locations By Default When Map Loads?"
+msgstr "Vis steder som standard når kart lastes?"
+
+#: map-designer.php:129
+msgid "Number of Locations Shown By Default"
+msgstr "Antall steds visninger som standardverdi"
+
+#: map-designer.php:130
+msgid "Recommended Max: 50"
+msgstr "Anbefalt Max: 50"
+
+#: map-designer.php:133
+msgid "Allow User Search By Name of Location?"
+msgstr "Tillat besøkende å søke navn på steder?"
+
+#: map-designer.php:135
+msgid "Labels"
+msgstr "Etiketter"
+
+#: map-designer.php:137
+msgid "Address Input Label"
+msgstr "Adresse input etikett"
+
+#: map-designer.php:139
+msgid "Radius Dropdown Label"
+msgstr "radius nedtrekksetikett"
+
+#: map-designer.php:141
+msgid "Website URL Label"
+msgstr "Nettsted URL etikett"
+
+#: map-designer.php:143
+msgid "Instruction Message to Users"
+msgstr "Veiledning til besøkende"
+
+#: map-designer.php:148
+msgid "Dimensions"
+msgstr "Dimmensjoner"
+
+#: map-designer.php:149
+msgid "Zoom Level"
+msgstr "Zoom Nivå"
+
+#: map-designer.php:151
+msgid "Map Height"
+msgstr "Kart høyde"
+
+#: map-designer.php:153
+msgid "Map Width"
+msgstr "Kart bredde"
+
+#: map-designer.php:155
+msgid "Radii Options<br>(in "
+msgstr "radius valg<br>(in "
+
+#: map-designer.php:156
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show</span>"
+msgstr "OBS: separer hvert nummer med et komma ',' , og putt parantes '( )' rundt standard radiusen du vil vise</span>"
+
+#: map-designer.php:157
+msgid "Distance Unit"
+msgstr "Avstand enhet"
+
+#: map-designer.php:158
+msgid "Kilometers"
+msgstr "Kilometer"
+
+#: map-designer.php:159
+msgid "Miles"
+msgstr "Miles"
+
+#: map-designer.php:168
+msgid "Design"
+msgstr "Design"
+
+#: map-designer.php:171
+msgid "Choose Theme"
+msgstr "Velg tema"
+
+#: map-designer.php:171
+msgid "No Theme Selected"
+msgstr "Intet tema valgt"
+
+#: map-designer.php:171
+msgid "Get&nbsp;Themes"
+msgstr "Hent&nbsp;Temaer"
+
+#: map-designer.php:172
+msgid "Remove Credits"
+msgstr "Fjern kreditering"
+
+#: map-designer.php:174
+msgid "Home Icon"
+msgstr "Hjem icon"
+
+#: map-designer.php:176
+msgid "Destination Icon"
+msgstr "Destinasjons Ikon"
+
+#: map-designer.php:179
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "Ser du etter nye og unike ikon? For ideer, besøk"
+
+#: mgmt-buttons-links.php:5
+msgid "Delete Selected"
+msgstr "Slett valgte"
+
+#: mgmt-buttons-links.php:5
+#: mgmt-buttons-links.php:16
+msgid "You sure"
+msgstr "Er du sikker"
+
+#: mgmt-buttons-links.php:16
+msgid "Tag Selected"
+msgstr "Tag valgt"
+
+#: mgmt-buttons-links.php:16
+msgid "Remove Tag From Selected"
+msgstr "Fjen Tag fra utvalg"
+
+#: news-upgrades.php:17
+msgid "Current Version"
+msgstr "Nåværende versjon"
+
+#: news-upgrades.php:17
+msgid "Upgrade to Newest Version"
+msgstr "Oppdater til nyeste versjon"
+
+#: news-upgrades.php:18
+msgid "(This upgrader preserves added themes, addons, images, icons, & language files as requested.  Remember to backup & check for upgrades often.)"
+msgstr "(Denne oppdaterer bevarer temaer, tillegg, bilder, ikoner & språkfiler som ønsket. Husk å sikkerhetskopier & sjekk etter oppdateringer med jevne mellomrom.)"
+
+#: news-upgrades.php:23
+msgid "<b>Note:</b> Your directory is <b>'wordpress-store-locator-location-finder'</b>. Please rename to <b>'store-locator'</b> to continue receiving notifications of future updates in your admin panel. After changing to <b>'store-locator'</b>, make sure to also update your icon URLs on the 'Map Designer' page."
+msgstr "<b>OBS:</b> Ditt arkiv er <b>'wordpress-store-locator-location-finder'</b>. vennligst endre arkiv navnet til <b>'store-locator'</b> for å fortsette å motta informasjon og opdateringer i ditt admin panel. Etter du har endret til <b>'store-locator'</b>, må du også huske på å oppdatere ditt ikon URL på 'Map Designer' siden."
+
+#: news-upgrades.php:34
+#, php-format
+msgid "Please make sure that %s is writable."
+msgstr "Vennligst sjekk at %s er skrivbar."
+
+#: news-upgrades.php:46
+msgid "Latest News"
+msgstr "Siste nytt"
+
+#: news-upgrades.php:93
+msgid "Activation Keys"
+msgstr "Aktiviserings nøkler"
+
+#: news-upgrades.php:121
+msgid "Key"
+msgstr "Nøkkel"
+
+#: news-upgrades.php:136
+msgid "Looking for more addons & themes"
+msgstr "Ser du etter mer tilbehør og temaer"
+
+#: news-upgrades.php:136
+msgid "It's all right here"
+msgstr "Du finner alt her"
+
+#: news-upgrades.php:147
+msgid "Addons & Themes"
+msgstr "Tilbehør og temaer"
+
+#: search-links.php:68
+msgid "for your search of"
+msgstr "i ditt søk etter"
+
+#: search-links.php:68
+msgid "Clear&nbsp;Results"
+msgstr "Tøm&nbsp;Resultat"
+
+#: search-links.php:75
+msgid "Results"
+msgstr "Resultat"
+
+#: search-links.php:77
+msgid "total"
+msgstr "totalt"
+
+#: search-links.php:88
+msgid "Previous"
+msgstr "Forrige"
+
+#: search-links.php:97
+msgid "Next"
+msgstr "Neste"
+
+#: via-latest.php:23
+msgid "Latest about Store Locator for WordPress"
+msgstr "Siste nytt om Store Locator for Wordpress"
+
+#: view-locations.php:13
+msgid "Search Locations"
+msgstr "Søk steder"
+
+#: view-locations.php:102
+msgid "Current View"
+msgstr "Nåverende visning"
+
+#: view-locations.php:102
+msgid "Change View"
+msgstr "Endre visning"
+
+#: view-locations.php:104
+msgid "Locations Per Page"
+msgstr "Steder per side"
+
+#: view-locations.php:112
+msgid "Change"
+msgstr "Endre"
+
+#: view-locations.php:118
+msgid "Updater"
+msgstr "Oppdaterer"
+
+#: view-locations.php:118
+msgid "Change Updater"
+msgstr "Endre oppdaterer"
+
+#: view-locations.php:140
+msgid "Actions"
+msgstr "Handling"
+
+#: view-locations.php:141
+msgid "ID"
+msgstr "ID"
+
+#: view-locations.php:143
+msgid "Street"
+msgstr "Gate"
+
+#: view-locations.php:144
+msgid "Street2"
+msgstr "Gate 2"
+
+#: view-locations.php:190
+msgid "Additional Information"
+msgstr "Tillegsinformasjon"
+
+#: view-locations.php:225
+#: view-locations.php:226
+#: view-locations.php:227
+msgid "View"
+msgstr "Se"
+
+#: view-locations.php:231
+msgid "Edit"
+msgstr "Rediger"
+
+#: view-locations.php:231
+msgid "Delete"
+msgstr "Slett"
+
+#: view-locations.php:255
+msgid "No Locations Showing for this Search of "
+msgstr "Ingen steder funnet i søket etter"
+
+#: view-locations.php:255
+msgid "No Locations Currently in Database"
+msgstr "Ingen steder i databasen på dette tidspunkt"
+
+#. Plugin URI of an extension
+msgid "http://www.viadat.com/store-locator"
+msgstr "http://www.viadat.com/store-locator"
+
+#. Description of an extension
+msgid "A store locator plugin that gives you the ability to effectively show important locations (stores, buildings, points of interest, etc.) in an easily searchable manner using Google Maps."
+msgstr "Store Locator plugin gir deg muligheten til å vise dine viktige steder (butikker, bygninger, punkter av interesse, etc) på en enkelt og søkbar måte med Google Maps."
+
+#. Author of an extension
+msgid "Viadat Creations"
+msgstr "Laget av Viadat"
+
+#. Author URI of an extension
+msgid "http://www.viadat.com"
+msgstr "http://www.viadat.com"
+

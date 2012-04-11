@@ -1,0 +1,495 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Viadat Creations
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/store-locator\n"
+"POT-Creation-Date: 2009-02-23 12:58+0000\n"
+"PO-Revision-Date: 2009-03-05 08:18-0600\n"
+"Last-Translator: Viadat Creations <info@viadat.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: add-locations.php:5
+#: functions.sl.php:394
+#: view-locations.php:209
+msgid "Add Locations"
+msgstr "Aggiungere posizioni"
+
+#: add-locations.php:26
+msgid "Successful Addition"
+msgstr "Aggiunto con successo"
+
+#: add-locations.php:79
+msgid "Type&nbsp;Address"
+msgstr "Aggiungere l'indirizzo"
+
+#: add-locations.php:82
+msgid "The General Address Format"
+msgstr "Formato generale per l'indirizzo"
+
+#: add-locations.php:82
+msgid "show/hide"
+msgstr "visualizzare/nascondere"
+
+#: add-locations.php:83
+#: add-locations.php:87
+msgid "Location Name"
+msgstr "Nome di posizione"
+
+#: add-locations.php:84
+#: add-locations.php:88
+msgid "Address (Street - Line1)"
+msgstr "Indirizzo (Via - Riga1)"
+
+#: add-locations.php:85
+msgid "Address (Street - Line2 - optional)"
+msgstr "Indirizzo (Via - Riga2 - opzionale)"
+
+#: add-locations.php:86
+msgid "City, State Zip"
+msgstr "Città, CAP"
+
+#: add-locations.php:89
+msgid "Address (Street - Line 2 - optional)"
+msgstr "Indirizzo (Via - Riga 2 - opzionale)"
+
+#: add-locations.php:90
+#: functions.sl.php:439
+#: view-locations.php:125
+msgid "City"
+msgstr "Città "
+
+#: add-locations.php:91
+#: functions.sl.php:440
+#: view-locations.php:126
+msgid "State"
+msgstr "Regione/Stato"
+
+#: add-locations.php:92
+#: functions.sl.php:441
+#: view-locations.php:127
+msgid "Zip"
+msgstr "Codice di avviamento postale (CAP) "
+
+#: add-locations.php:93
+msgid "Show/Hide More Fields"
+msgstr "Visualizzare/Nascondere altri campi"
+
+#: add-locations.php:95
+msgid "Tags (seperate with commas)"
+msgstr "Separare i tag con delle virgole"
+
+#: add-locations.php:96
+#: functions.sl.php:443
+#: view-locations.php:131
+msgid "Description"
+msgstr "Descrizione"
+
+#: add-locations.php:97
+#: functions.sl.php:445
+#: view-locations.php:132
+msgid "URL"
+msgstr "URL"
+
+#: add-locations.php:98
+#: functions.sl.php:444
+#: view-locations.php:133
+msgid "Hours"
+msgstr "Ore"
+
+#: add-locations.php:99
+#: functions.sl.php:446
+#: view-locations.php:134
+msgid "Phone"
+msgstr "Telefono"
+
+#: add-locations.php:100
+msgid "Image (shown on map with location)"
+msgstr "Immagine (verr&agrave; visualizzata con la carta)"
+
+#: add-locations.php:102
+msgid "Add Location"
+msgstr "Aggiungere posizione"
+
+#: api-key.php:13
+#: map-designer.php:30
+msgid "Successful Update"
+msgstr "Aggiornato con successo. "
+
+#: api-key.php:16
+msgid "Update Your Google API Key"
+msgstr "Il vostro Google API Key deve essere aggiornato"
+
+#: api-key.php:16
+msgid "Your API Key Status"
+msgstr "Il vostro stato API Key "
+
+#: api-key.php:22
+msgid "Please Update Your Google API Key"
+msgstr "Aggiorna Google API Key per favore"
+
+#: api-key.php:25
+msgid "API Key Submitted"
+msgstr "API Key inviato"
+
+#: api-key.php:28
+#: functions.sl.php:397
+msgid "Google API Key"
+msgstr "Google API Key"
+
+#: api-key.php:28
+msgid "Note: <br>"
+msgstr "Nota: <br>"
+
+#: api-key.php:40
+msgid "Select Your Location"
+msgstr "Seleziona la posizione"
+
+#: api-key.php:71
+msgid "Select Distance Unit"
+msgstr "Seleziona unità di misura"
+
+#: api-key.php:73
+msgid "Kilometers"
+msgstr "Chilometri"
+
+#: api-key.php:74
+msgid "Miles"
+msgstr "Miglia"
+
+#: api-key.php:80
+#: map-designer.php:123
+#: view-locations.php:156
+msgid "Update"
+msgstr "L'aggiornamento"
+
+#: functions.sl.php:192
+msgid "Address "
+msgstr "L'indirizzo"
+
+#: functions.sl.php:193
+msgid "Received status "
+msgstr "Stato ricevuta"
+
+#: functions.sl.php:373
+msgid "Enter Your Address or Zip Code Above"
+msgstr "L'indirizzo o il CAP deve essere inserito sopra"
+
+#: functions.sl.php:390
+msgid "Store Locator"
+msgstr "Store Locator"
+
+#: functions.sl.php:392
+msgid "News & Upgrades"
+msgstr "Notizie & Aggiornamenti"
+
+#: functions.sl.php:393
+#: view-locations.php:13
+msgid "Manage Locations"
+msgstr "Gestione posizioni"
+
+#: functions.sl.php:395
+#: map-designer.php:32
+msgid "Map Designer"
+msgstr "Map Designer"
+
+#: functions.sl.php:397
+msgid "Localization"
+msgstr "Localizzazione "
+
+#: functions.sl.php:400
+msgid "ReadMe"
+msgstr "ReadMe"
+
+#: functions.sl.php:427
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "Seleziona un titolo che corrisponde alle colonne che verranno importate."
+
+#: functions.sl.php:427
+msgid "Leave headings for undesired columns unchanged"
+msgstr "Lascia titoli per colonne che non sono desiderate inalterati"
+
+#: functions.sl.php:429
+#: functions.sl.php:468
+#: view-locations.php:156
+msgid "Cancel"
+msgstr "Annulla"
+
+#: functions.sl.php:429
+#: functions.sl.php:468
+msgid "Import Locations"
+msgstr "Importa posizioni"
+
+#: functions.sl.php:435
+msgid "Choose"
+msgstr "Seleziona"
+
+#: functions.sl.php:436
+#: view-locations.php:122
+msgid "Name"
+msgstr "Nome"
+
+#: functions.sl.php:437
+msgid "Street(Line1)"
+msgstr "Via(Riga1)"
+
+#: functions.sl.php:438
+msgid "Street(Line2)"
+msgstr "Via(Riga2)"
+
+#: functions.sl.php:442
+#: mgmt-buttons-links.php:16
+#: view-locations.php:128
+msgid "Tags"
+msgstr "Tag"
+
+#: functions.sl.php:447
+#: view-locations.php:135
+msgid "Image"
+msgstr "Immagine"
+
+#: functions.sl.php:448
+msgid "Is Private?"
+msgstr "Privato?"
+
+#: functions.sl.php:537
+msgid "You haven't activated this upgrade yet"
+msgstr "L'aggiornamento non è stato attivato ancora"
+
+#: functions.sl.php:537
+msgid "Activate"
+msgstr "Attivare"
+
+#: map-designer.php:32
+msgid "Option"
+msgstr "Opzione"
+
+#: map-designer.php:32
+msgid "Value"
+msgstr "Valore"
+
+#: map-designer.php:80
+msgid "Show Default Street Map Only"
+msgstr "Mostra la carta stradale predefinita"
+
+#: map-designer.php:81
+msgid "Show Satellite Imagery Only"
+msgstr "Mostra immagini satellitari"
+
+#: map-designer.php:82
+msgid "Show Satellite Imagery + Street Map"
+msgstr "Mostra immagini satellitari + carta stradale"
+
+#: map-designer.php:83
+msgid "Show Terrain + Street Map"
+msgstr "Mostra terreno + carta stradale"
+
+#: map-designer.php:91
+msgid "Choose Default Map Type Shown to Visitors"
+msgstr "Seleziona la carta stradale predefinita visualizzata ai visitatori"
+
+#: map-designer.php:93
+msgid "Allow User Search By City?"
+msgstr "Permettere ricerca per città"
+
+#: map-designer.php:95
+msgid "Show Locations By Default When Map Loads?"
+msgstr "Visualizzare posizioni di solito mentre la carta sta caricando?"
+
+#: map-designer.php:96
+msgid "Still a Beta feature, meaning it may not always work properly"
+msgstr "Questa funzionalità non è ancora stabile"
+
+#: map-designer.php:97
+msgid "Number of Locations Shown By Default"
+msgstr "Quantità di posizioni visualizzate in maniera predefinita"
+
+#: map-designer.php:98
+msgid "Recommended Max: 50"
+msgstr "Raccomandato è 50"
+
+#: map-designer.php:99
+msgid "Allow User Search By Name of Location?"
+msgstr "Permettere ricerca per nome della posizione"
+
+#: map-designer.php:101
+msgid "Address Input Label"
+msgstr "Indirizzo input label"
+
+#: map-designer.php:103
+msgid "Radius Dropdown Label"
+msgstr "Raggio dropdown label"
+
+#: map-designer.php:105
+msgid "Website URL Label"
+msgstr "Sito URL label"
+
+#: map-designer.php:107
+msgid "Default Map Zoom Level"
+msgstr "Livello dello zoom predefinito"
+
+#: map-designer.php:109
+msgid "Map Height"
+msgstr "Altezza della carta"
+
+#: map-designer.php:111
+msgid "Map Width"
+msgstr "Larghezza della carta"
+
+#: map-designer.php:113
+msgid "Map Radii Options (in "
+msgstr "Opzioni raggio"
+
+#: map-designer.php:114
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show"
+msgstr "Nota: Separare i numeri con delle virgole ',' , e inserire parentesi '( )' fra i raggi predefiniti"
+
+#: map-designer.php:115
+msgid "Choose Theme"
+msgstr "Seleziona tema"
+
+#: map-designer.php:115
+msgid "No Theme Selected"
+msgstr "Nessun tema selezionato"
+
+#: map-designer.php:116
+msgid "Remove Credits?"
+msgstr "Rimuovere credits?"
+
+#: map-designer.php:118
+msgid "Home Icon"
+msgstr "Home icon"
+
+#: map-designer.php:120
+msgid "Destination Icon"
+msgstr "Icon di destinazione"
+
+#: map-designer.php:122
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "Cercando di creare o trovare un icon straordinario? Per idee, visita"
+
+#: mgmt-buttons-links.php:5
+msgid "Delete Selected"
+msgstr "Cancella l'oggetto selezionato"
+
+#: mgmt-buttons-links.php:5
+#: mgmt-buttons-links.php:16
+msgid "You sure"
+msgstr "Davvero sicuro"
+
+#: mgmt-buttons-links.php:16
+msgid "Tag Selected"
+msgstr "Tag selezionato"
+
+#: mgmt-buttons-links.php:16
+msgid "Remove Tag From Selected"
+msgstr "Rimuovi tag del oggetto selezionato"
+
+#: news-upgrades.php:10
+msgid "Latest News"
+msgstr "Ultime notizie"
+
+#: news-upgrades.php:54
+msgid "Activation Keys"
+msgstr "Chiavi di attivazione"
+
+#: news-upgrades.php:81
+msgid "Key"
+msgstr "Chiave"
+
+#: news-upgrades.php:93
+msgid "Update All"
+msgstr "Aggiornare tutto"
+
+#: news-upgrades.php:94
+msgid "Looking for more upgrades & themes"
+msgstr "Cercando altri aggiornamenti & temi "
+
+#: news-upgrades.php:94
+msgid "It's all right here"
+msgstr "Tutto è qui "
+
+#: news-upgrades.php:105
+msgid "Addons & Themes"
+msgstr "Addons & temi"
+
+#: variables.sl.php:9
+msgid "View All Locations"
+msgstr "Visualizza tutte le posizioni"
+
+#: view-locations.php:95
+msgid "Current View"
+msgstr "Veduta corrente"
+
+#: view-locations.php:95
+msgid "Change View"
+msgstr "Cambia veduta"
+
+#: view-locations.php:98
+msgid "Updater"
+msgstr "Updater"
+
+#: view-locations.php:98
+msgid "Change Updater"
+msgstr "Cambia updater"
+
+#: view-locations.php:120
+msgid "Actions"
+msgstr "Azioni"
+
+#: view-locations.php:121
+msgid "ID"
+msgstr "ID"
+
+#: view-locations.php:123
+msgid "Street"
+msgstr "Via"
+
+#: view-locations.php:124
+msgid "Street2"
+msgstr "Via2"
+
+#: view-locations.php:178
+#: view-locations.php:179
+#: view-locations.php:180
+msgid "View"
+msgstr "Visualizza"
+
+#: view-locations.php:184
+msgid "Edit"
+msgstr "Modifica"
+
+#: view-locations.php:184
+msgid "Delete"
+msgstr "Cancella"
+
+#: view-locations.php:208
+msgid "No Locations Showing for this Search of "
+msgstr "Non vi sono posizioni per la ricerca di "
+
+#: view-locations.php:208
+msgid "No Locations Currently in Database"
+msgstr "Attualmente non vi sono posizioni nel database"
+
+#. Plugin URI of an extension
+msgid "http://www.viadat.com/store-locator"
+msgstr "http://www.viadat.com/store-locator"
+
+#. Description of an extension
+msgid "A store locator / location finder plugin focused on providing mapping tools for web designers & developers who create sites in Wordpress & web site owners needing to show important stores or any other type of location."
+msgstr "Un store locator / location finder plugin che ti aiutera a creare carte con posizioni (di negozi per esempio) in WordPress e Google Maps."
+
+#. Author of an extension
+msgid "Viadat Creations"
+msgstr "Viadat Creations"
+
+#. Author URI of an extension
+msgid "http://www.viadat.com"
+msgstr "http://www.viadat.com"
+

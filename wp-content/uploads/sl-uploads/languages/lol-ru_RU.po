@@ -1,0 +1,607 @@
+# Copyright (C) 2010 Store Locator
+# This file is distributed under the same license as the Store Locator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Locator 1.2.40\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/store-locator\n"
+"POT-Creation-Date: 2011-01-15 13:07:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-04-24 22:00-0600\n"
+"Last-Translator: Viadat Creations <info@viadat.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: variables.sl.php:10
+#: view-locations.php:13
+#: functions.sl.php:520
+msgid "Manage Locations"
+msgstr "Управлять точками"
+
+#: news-upgrades.php:11
+msgid "Update Central"
+msgstr ""
+
+#: news-upgrades.php:17
+msgid "Current Version"
+msgstr "Текущая версия"
+
+#: news-upgrades.php:17
+msgid "Upgrade to Newest Version"
+msgstr "Обновить на новую версию"
+
+#: news-upgrades.php:18
+msgid "(This upgrader preserves added themes, addons, images, icons, & language files as requested.  Remember to backup & check for upgrades often.)"
+msgstr "(Добавленные темы, плагины, картинки, иконка и языки будут сохраненыпри обновлении. Не забудьте делать резервную копию и проверять обновления.)"
+
+#: news-upgrades.php:23
+msgid "<b>Note:</b> Your directory is <b>'wordpress-store-locator-location-finder'</b>. Please rename to <b>'store-locator'</b> to continue receiving notifications of future updates in your admin panel. After changing to <b>'store-locator'</b>, make sure to also update your icon URLs on the 'Map Designer' page."
+msgstr "<b>На заметку:</b> Название директории <b>'wordpress-store-locator-location-finder'</b>. Пожалуйста, переименуйте её в <b>'store-locator'</b> чтобы продолжить получать уведомления об обновлениях в панели управления. После переименования директории в<b>'store-locator'</b>, убедитесь также проверьте пути URLs к иконкам на странице 'Map Designer'."
+
+#: news-upgrades.php:34
+msgid "Please make sure that %s is writable."
+msgstr "Пожалуйста, убедитесь, что %s доступен для записи"
+
+#: news-upgrades.php:46
+msgid "Latest News"
+msgstr "Свежие новости"
+
+#: news-upgrades.php:93
+msgid "Activation Keys"
+msgstr "Ключи активации"
+
+#: news-upgrades.php:121
+msgid "Key"
+msgstr "Ключ"
+
+#: news-upgrades.php:135
+#: functions.sl.php:681
+msgid "Activate"
+msgstr "Активировать"
+
+#: news-upgrades.php:136
+msgid "Looking for more addons & themes"
+msgstr "Ищите больше плагинов и тем"
+
+#: news-upgrades.php:136
+msgid "It's all right here"
+msgstr "Тут всё ok"
+
+#: news-upgrades.php:147
+msgid "Addons & Themes"
+msgstr "Плагины и темы"
+
+#: mgmt-buttons-links.php:5
+msgid "Delete Selected"
+msgstr "Удалить выделенное"
+
+#: mgmt-buttons-links.php:5
+#: mgmt-buttons-links.php:18
+msgid "You sure"
+msgstr "Уверены"
+
+#: mgmt-buttons-links.php:18
+#: view-locations.php:148
+#: functions.sl.php:583
+msgid "Tags"
+msgstr "Тэги"
+
+#: mgmt-buttons-links.php:18
+msgid "Tag Selected"
+msgstr "Выделенные теги"
+
+#: mgmt-buttons-links.php:18
+msgid "Remove Tag From Selected"
+msgstr "Удалить тэг из выделенных"
+
+#: api-key.php:15
+#: map-designer.php:34
+msgid "Successful Update"
+msgstr "Удачное обновление"
+
+#: api-key.php:18
+msgid "Update Your Google API Key"
+msgstr "Обновите Google API Key"
+
+#: api-key.php:18
+msgid "Your API Key Status"
+msgstr "Ваш API Key статус"
+
+#: api-key.php:24
+msgid "Please Update Your Google API Key"
+msgstr "Пожалуйста, обновите Google API Key"
+
+#: api-key.php:27
+msgid "API Key Submitted"
+msgstr "API Key принят"
+
+#: api-key.php:30
+#: functions.sl.php:524
+msgid "Google API Key"
+msgstr "Google API Key"
+
+#: api-key.php:30
+msgid "Get your Google API Key"
+msgstr "Получить Google API Key"
+
+#: api-key.php:30
+msgid "You'll need to log in with your Google account on the page that opens up. If you don't have an account"
+msgstr "Для этого необходимо авторизоваться в Google на открывшейся странице. Если у Вас нет аккаунта"
+
+#: api-key.php:30
+msgid "sign up here"
+msgstr "зарегистрируйтесь тут"
+
+#: api-key.php:42
+msgid "Select Your Location"
+msgstr "Выберите Локацию"
+
+#: api-key.php:107
+msgid "Select Character Encoding"
+msgstr "Выберите кодировку"
+
+#: api-key.php:115
+#: view-locations.php:188
+#: map-designer.php:181
+msgid "Update"
+msgstr "Обновить"
+
+#: view-locations.php:13
+msgid "Search Locations"
+msgstr "Искать локацию"
+
+#: view-locations.php:102
+msgid "Current View"
+msgstr "Текущий вид"
+
+#: view-locations.php:102
+msgid "Change View"
+msgstr "Сменить вид"
+
+#: view-locations.php:104
+msgid "Locations Per Page"
+msgstr "Локаций на странице"
+
+#: view-locations.php:105
+#: functions.sl.php:576
+msgid "Choose"
+msgstr "Выбрать"
+
+#: view-locations.php:112
+msgid "Change"
+msgstr "Изменить"
+
+#: view-locations.php:118
+msgid "Updater"
+msgstr "Мастер обновлений"
+
+#: view-locations.php:118
+msgid "Change Updater"
+msgstr "Сменить мастер обновлений"
+
+#: view-locations.php:140
+msgid "Actions"
+msgstr "Действия"
+
+#: view-locations.php:141
+msgid "ID"
+msgstr "ID"
+
+#: view-locations.php:142
+#: functions.sl.php:577
+msgid "Name"
+msgstr "Имя"
+
+#: view-locations.php:143
+msgid "Street"
+msgstr "Улица"
+
+#: view-locations.php:144
+msgid "Street2"
+msgstr "Дом и корпус"
+
+#: view-locations.php:145
+#: view-locations.php:185
+#: add-locations.php:91
+#: functions.sl.php:580
+msgid "City"
+msgstr "Город"
+
+#: view-locations.php:146
+#: view-locations.php:186
+#: add-locations.php:92
+#: functions.sl.php:581
+msgid "State"
+msgstr "Штат"
+
+#: view-locations.php:147
+#: view-locations.php:187
+#: add-locations.php:93
+#: functions.sl.php:582
+msgid "Zip"
+msgstr "Индекс"
+
+#: view-locations.php:151
+#: view-locations.php:191
+#: add-locations.php:95
+#: functions.sl.php:584
+msgid "Description"
+msgstr "Описание"
+
+#: view-locations.php:152
+#: view-locations.php:193
+#: add-locations.php:97
+#: functions.sl.php:586
+msgid "URL"
+msgstr "URL"
+
+#: view-locations.php:153
+#: view-locations.php:194
+#: add-locations.php:98
+#: functions.sl.php:585
+msgid "Hours"
+msgstr "Часов"
+
+#: view-locations.php:154
+#: view-locations.php:195
+#: add-locations.php:99
+#: functions.sl.php:587
+msgid "Phone"
+msgstr "Телефон"
+
+#: view-locations.php:155
+#: functions.sl.php:588
+msgid "Image"
+msgstr "Изображение"
+
+#: view-locations.php:180
+#: add-locations.php:80
+msgid "Type&nbsp;Address"
+msgstr "Введите&nbsp;адрес"
+
+#: view-locations.php:182
+#: add-locations.php:84
+#: add-locations.php:88
+msgid "Name of Location"
+msgstr "Название локации"
+
+#: view-locations.php:183
+#: add-locations.php:89
+msgid "Address"
+msgstr "Адрес"
+
+#: view-locations.php:183
+#: add-locations.php:89
+msgid "Street - Line1"
+msgstr "Улица"
+
+#: view-locations.php:184
+#: add-locations.php:90
+msgid "Street - Line 2 - optional"
+msgstr "Дом, корпус - опционально"
+
+#: view-locations.php:188
+#: functions.sl.php:570
+#: functions.sl.php:609
+msgid "Cancel"
+msgstr "Отмена"
+
+#: view-locations.php:190
+#: add-locations.php:94
+msgid "Additional Information"
+msgstr "Доп. информация"
+
+#: view-locations.php:192
+#: add-locations.php:96
+msgid "Tags (seperate with commas)"
+msgstr "Теги (разделяйте запятыми)"
+
+#: view-locations.php:196
+#: add-locations.php:100
+msgid "Image URL (shown with location)"
+msgstr "URL картинки (показывается у локации)"
+
+#: view-locations.php:225
+#: view-locations.php:226
+#: view-locations.php:227
+msgid "View"
+msgstr "Вид"
+
+#: view-locations.php:231
+msgid "Edit"
+msgstr "Редактировать"
+
+#: view-locations.php:231
+msgid "Delete"
+msgstr "Удалить"
+
+#: view-locations.php:255
+msgid "No Locations Showing for this Search of "
+msgstr "По этому поисковому запросу нет локаций"
+
+#: view-locations.php:255
+msgid "No Locations Currently in Database"
+msgstr "В базе данных нет локаций"
+
+#: view-locations.php:256
+#: add-locations.php:5
+#: functions.sl.php:521
+msgid "Add Locations"
+msgstr "Добавить локации"
+
+#: add-locations.php:26
+msgid "Successful Addition"
+msgstr "Успешное добавление"
+
+#: add-locations.php:83
+msgid "The General Address Format"
+msgstr "Общий формат адреса"
+
+#: add-locations.php:83
+msgid "show/hide"
+msgstr "показать/спрятать"
+
+#: add-locations.php:85
+msgid "Address (Street - Line1)"
+msgstr "Улица"
+
+#: add-locations.php:86
+msgid "Address (Street - Line2 - optional)"
+msgstr "Дом, корпус - опционально"
+
+#: add-locations.php:87
+msgid "City, State Zip"
+msgstr "Город, индекс"
+
+#: add-locations.php:101
+msgid "Add Location"
+msgstr "Добавить локации"
+
+#: search-links.php:68
+msgid "for your search of"
+msgstr "для Вашего поисковго запроса"
+
+#: search-links.php:68
+msgid "Clear&nbsp;Results"
+msgstr "Очистить&nbsp;результаты"
+
+#: search-links.php:75
+msgid "Results"
+msgstr "Результаты"
+
+#: search-links.php:77
+msgid "total"
+msgstr "итого"
+
+#: search-links.php:88
+msgid "Previous"
+msgstr "Предыдущие"
+
+#: search-links.php:97
+msgid "Next"
+msgstr "Следующие"
+
+#: localImport.php:10
+msgid "Successful Import"
+msgstr "Успешный импорт"
+
+#: localImport.php:16
+msgid "You May Only Use 'Select' Queries"
+msgstr "Вы можете использовать только 'Select' запросы"
+
+#: localImport.php:16
+msgid "Try Again"
+msgstr "Ещё раз"
+
+#: map-designer.php:36
+#: functions.sl.php:522
+msgid "Map Designer"
+msgstr "Map Designer"
+
+#: map-designer.php:36
+msgid "Designer"
+msgstr "Designer"
+
+#: map-designer.php:108
+msgid "Normal"
+msgstr "Обычный"
+
+#: map-designer.php:109
+msgid "Satellite"
+msgstr "Спутник"
+
+#: map-designer.php:110
+msgid "Hybrid"
+msgstr "Гибридный"
+
+#: map-designer.php:111
+msgid "Physical"
+msgstr "Физическое"
+
+#: map-designer.php:117
+msgid "You have switched from <strong>'wordpress-store-locator-location-finder'</strong> to <strong>'store-locator'</strong> --- great!<br>Now, please re-select your <b>'Home Icon'</b> and <b>'Destination Icon'</b> below, so that they show up properly on your store locator map."
+msgstr "Вы переключились с <strong>'wordpress-store-locator-location-finder'</strong> к <strong>'store-locator'</strong> --- Чудно!<br>Сейчас, пожалуйставыберите <b>'Home Icon'</b> и <b>'Destination Icon'</b> ниже, так, чтобыони должным образом отображались на Вашей карте локаций."
+
+#: map-designer.php:120
+msgid "Defaults"
+msgstr "По-умолчанию"
+
+#: map-designer.php:121
+msgid "Choose Default Map Type Shown to Visitors"
+msgstr "Выберите тип карты отображаемый по-уполчанию"
+
+#: map-designer.php:123
+msgid "Allow User Search By City?"
+msgstr "Разрещить пользователю искать по городу?"
+
+#: map-designer.php:125
+msgid "Show Map Inset Box?"
+msgstr "Показать поле для ввода карты"
+
+#: map-designer.php:127
+msgid "Show Locations By Default When Map Loads?"
+msgstr "Показывать локации по-умолчанию, когда карта загружается"
+
+#: map-designer.php:129
+msgid "Number of Locations Shown By Default"
+msgstr "Количество локаций, показанных по-умолчанию"
+
+#: map-designer.php:130
+msgid "Recommended Max: 50"
+msgstr "Рекомендуется 50 (max)"
+
+#: map-designer.php:133
+msgid "Allow User Search By Name of Location?"
+msgstr "Разрешить пользователям искать по названию локации"
+
+#: map-designer.php:135
+msgid "Labels"
+msgstr "Метки"
+
+#: map-designer.php:137
+msgid "Address Input Label"
+msgstr "Метка ввода адреса"
+
+#: map-designer.php:139
+msgid "Radius Dropdown Label"
+msgstr "Метка для баллуна"
+
+#: map-designer.php:141
+msgid "Website URL Label"
+msgstr "Метка адреса сайта"
+
+#: map-designer.php:143
+msgid "Instruction Message to Users"
+msgstr "Инструкции для пользователя"
+
+#: map-designer.php:148
+msgid "Размеры"
+msgstr ""
+
+#: map-designer.php:149
+msgid "Zoom Level"
+msgstr "Масштаб"
+
+#: map-designer.php:151
+msgid "Map Height"
+msgstr "Высота карты"
+
+#: map-designer.php:153
+msgid "Map Width"
+msgstr "Ширина карты"
+
+#: map-designer.php:156
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show</span>"
+msgstr "На заметку: отделяйте каждый номер запятой ',' , и обрамляйте скобками '( )' балун, который Вы хотите назначить по-умолчанию</span>"
+
+#: map-designer.php:157
+msgid "Distance Unit"
+msgstr "Единица расстояния"
+
+#: map-designer.php:158
+msgid "Kilometers"
+msgstr "Километры"
+
+#: map-designer.php:159
+msgid "Miles"
+msgstr "Мили"
+
+#: map-designer.php:168
+msgid "Design"
+msgstr "Дизайн"
+
+#: map-designer.php:171
+msgid "Choose Theme"
+msgstr "Выбрать тему"
+
+#: map-designer.php:171
+msgid "No Theme Selected"
+msgstr "Тема не выбрана"
+
+#: map-designer.php:171
+msgid "Get&nbsp;Themes"
+msgstr "Скачать&nbsp;темы"
+
+#: map-designer.php:172
+msgid "Remove Credits"
+msgstr "Удалить (с)"
+
+#: map-designer.php:174
+msgid "Home Icon"
+msgstr "Home Icon"
+
+#: map-designer.php:176
+msgid "Destination Icon"
+msgstr "Destination Icon"
+
+#: map-designer.php:179
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "Ищите как создать уникальную иконку? Идеи можно найти тут"
+
+#. #-#-#-#-#  plugin.pot (Store Locator 1.2.40)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: functions.sl.php:517
+msgid "Store Locator"
+msgstr "Локации"
+
+#: functions.sl.php:519
+msgid "News & Upgrades"
+msgstr "Новости и обновления"
+
+#: functions.sl.php:524
+msgid "Localization"
+msgstr "Локализация"
+
+#: functions.sl.php:527
+msgid "ReadMe"
+msgstr "ReadMe"
+
+#: functions.sl.php:568
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "Выберите заголовок для колонок, которые Вы хотите импортировать"
+
+#: functions.sl.php:568
+msgid "Leave headings for undesired columns unchanged"
+msgstr "Оставьте заголовки "
+
+#: functions.sl.php:570
+#: functions.sl.php:609
+msgid "Import Locations"
+msgstr "Импортировать локации"
+
+#: functions.sl.php:578
+msgid "Street(Line1)"
+msgstr "Улица"
+
+#: functions.sl.php:579
+msgid "Street(Line2)"
+msgstr "Дом, корпус - опционально"
+
+#: functions.sl.php:589
+msgid "Is Private?"
+msgstr "Личная?"
+
+#: functions.sl.php:681
+msgid "You haven't activated this upgrade yet"
+msgstr "Вы ещё не активировали это обновление"
+
+#: via-latest.php:23
+msgid "Latest about Store Locator for WordPress"
+msgstr "Свежее о Store Locator for WordPress"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.viadat.com/store-locator"
+msgstr "http://www.viadat.com/store-locator"
+
+#. Description of the plugin/theme
+msgid "A store locator plugin that gives you the ability to effectively show important locations (stores, buildings, points of interest, etc.) in an easily searchable manner using Google Maps."
+msgstr "Плагин Store locator дает возможность эффективно отображать важные локации (магазины, здания, интересные места, etc.) просто,с происком и используя Google Maps."
+
+#. Author of the plugin/theme
+msgid "Viadat Creations"
+msgstr "Viadat Creations"
+
+#. Author URI of the plugin/theme
+msgid "http://www.viadat.com"
+msgstr ""
+

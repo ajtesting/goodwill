@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Laifeilim <tllangta@ gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: api-key.php:2
+msgid "API Key Submitted"
+msgstr "API Key 已提交"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Actions"
+msgstr "Actions"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Activate"
+msgstr "激活"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Add Location"
+msgstr "增加位置"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Add Locations"
+msgstr "增加位置"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "Addons & Themes"
+msgstr "扩展和风格"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Address (Street - Line 2 - optional)"
+msgstr "地址 (第二行)"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Address (Street - Line1)"
+msgstr "地址 (第一行)"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Address (Street - Line2 - optional)"
+msgstr "地址 (第二行)"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Address Input Label"
+msgstr "地址输入栏"
+
+#. Text in function
+#: csv-xml-importer-exporter/export-links.php:1
+msgid "CSV"
+msgstr "CSV"
+
+#. Text in function
+#: csv-xml-importer-exporter/csv-import-form.php:1
+msgid "CSV&nbsp;Template"
+msgstr "CSV&nbsp;模板"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "Cancel"
+msgstr "取消"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Change Updater"
+msgstr "更改更新"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Change View"
+msgstr "更改视图"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Choose"
+msgstr "选择"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "选择标题匹配您要导入的列"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Leave headings for undesired columns unchanged"
+msgstr "离开不喜欢的列的标题不做更改"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Choose Theme"
+msgstr "选择风格"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "City"
+msgstr "城市"
+
+#. Text in function
+#: add-locations.php:1
+msgid "City, State Zip"
+msgstr "城市,或邮编"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Current View"
+msgstr "当前视图"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Database Name"
+msgstr "Database Name"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Delete"
+msgstr "删除"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+msgid "Delete Selected"
+msgstr "清除所选"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Description"
+msgstr "Description"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Destination Icon"
+msgstr "目的地图标"
+
+#. Text in function
+#: api-key.php:2
+msgid "Each API Key is unique to one web domain. To obtain a Google API Key for this domain ($_SERVER[HTTP_HOST]):<br><br><b>Step 1.</b> Log into your Google Account<br>(If you use any Google Product, such as Gmail, Google Docs, etc., then you have a Google Account. If not, <a href='https://www.google.com/accounts/' target='_blank'>you can sign up for one</a>) <br><br><b>Step 2.</b> Visit: <a href='http://code.google.com/apis/maps/signup.html' target='_blank'>http://code.google.com/apis/maps/signup.html</a> and submit your domain, and receive an API Key from Google"
+msgstr "每一个网站都对应唯一的一个API密钥。要为该域名取得一个谷歌API key($_SERVER[HTTP_HOST]):<br><br><b>第1步</b>登陆你的谷歌账户<br>(如果您使用任何谷歌的产品，如Gmail，谷歌文档等，那么用此帐户登陆。如果没有，<a href='https://www.google.com/accounts/' target='_blank'>请注册一个</a>。)<br><br><b>第2步</b>访问：<a href='http://code.google.com/apis/maps/signup.html' target='_blank'>http://code.google.com/apis/maps/signup.html</a>并提交您的域名，取得你的谷歌API key。"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Edit"
+msgstr "编辑"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Enter Google API Key"
+msgstr "输入你的谷歌API Key"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Enter Your Address or Zip Code Above"
+msgstr "在上面设置你的地址或邮政编码"
+
+#. Text in function
+#: csv-xml-importer-exporter/export-links.php:1
+msgid "Export"
+msgstr "导出"
+
+#. Text in function
+#: api-key.php:2
+msgid "Google API Key"
+msgstr "谷歌API Key"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Google's Terms of Use"
+msgstr "使用谷歌的条款"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Home Icon"
+msgstr "当前位置图标"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Host"
+msgstr "主机"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Hours"
+msgstr "时间"
+
+#. Text in function
+#: view-locations.php:2
+msgid "ID"
+msgstr "ID"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "Image"
+msgstr "Image"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Image (shown on map with location)"
+msgstr "图片 (在地图的相应位置上显示)"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+#: csv-xml-importer-exporter/csv-import-form.php:1
+msgid "Import"
+msgstr "导入"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Import Locations"
+msgstr "导入位置"
+
+#. Text in function
+#: csv-xml-importer-exporter/csv-import-form.php:1
+msgid "Import&nbsp;CSV&nbsp;File"
+msgstr "导入&nbsp;CSV&nbsp;文件"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Import&nbsp;From&nbsp;Local/Remote&nbsp;Database"
+msgstr "从本地/远程数据库导入"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Is Private?"
+msgstr "是否私有?"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "Latest News"
+msgstr "最新新闻"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "License Keys"
+msgstr "许可证密钥"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Location Name"
+msgstr "位置"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "希望创建或找到一个独一无二的图标吗?如果你有好的想法,请访问..."
+
+#. Text in function
+#: map-designer.php:2
+#: functions.sl.php:1
+msgid "Map Designer"
+msgstr "地图设计器"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Map Height"
+msgstr "地图高度"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Map Radii Options (in miles)"
+msgstr "地图半径选择"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Map Width"
+msgstr "地图宽度"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "Name"
+msgstr "商店名字"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "News & Upgrades"
+msgstr "新闻与升级"
+
+#. Text in function
+#: view-locations.php:2
+msgid "No Locations Currently in Database"
+msgstr "目前数据库中的没有位置"
+
+#. Text in function
+#: view-locations.php:2
+msgid "No Locations Showing for this Search of "
+msgstr "没有搜索到符合条件的位置"
+
+#. Text in function
+#: map-designer.php:2
+msgid "No Theme Selected"
+msgstr "没有可选的风格"
+
+#. Text in function
+#: api-key.php:2
+msgid "Note: <br>"
+msgstr "备注： <br>"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show"
+msgstr "每个选项用','隔开，用'( )'括起来的，表示你希望默认显示的选项。"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Password"
+msgstr "密码"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Phone"
+msgstr "电话"
+
+#. Text in function
+#: api-key.php:2
+msgid "Please Update Your Google API Key"
+msgstr "请提交你的谷歌API Key"
+
+#. Text in function
+#: variables.sl.php:1
+msgid "Preview Locator User Interface"
+msgstr "用户界面预览"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Query (Only works with 'Select' Queries)"
+msgstr "查询（只适用于'Select'查询）"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Radius"
+msgstr "半径"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "ReadMe"
+msgstr "说明文档"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Received status "
+msgstr "接收状态"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+msgid "Remove Tag From Selected"
+msgstr "删除选中的标签"
+
+#. Text in function
+#: point-click-add/point-click-add-form.php:1
+msgid "Search Zip or City & State to Center Map"
+msgstr "在地图中间搜索邮编或城市和州或省份"
+
+#. Text in function
+#: point-click-add/point-click-add-form.php:1
+msgid "Search,&nbsp;Click,&nbsp;Add"
+msgstr "搜索,&nbsp;点击,&nbsp;添加"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Show/Hide More Fields"
+msgstr "显示/隐藏更多的区域"
+
+#. Text in function
+#: csv-xml-importer-exporter/csv-import-form.php:1
+msgid "Skip 1st line of CSV file"
+msgstr "跳过第一行的CSV文件"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "State"
+msgstr "州/省"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Store Locator"
+msgstr "Store Locator<br>(店铺位置)"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Street"
+msgstr "街道"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Street(Line1)"
+msgstr "街道(第一行)"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Street(Line2)"
+msgstr "街道(第二行)"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Street2"
+msgstr "街道2"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Successful Addition"
+msgstr "添加成功"
+
+#. Text in function
+#: map-designer.php:2
+#: api-key.php:2
+msgid "Successful Update"
+msgstr "更新成功"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+msgid "Tag Selected"
+msgstr "标签选择"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "Tags"
+msgstr "标签"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Tags (seperate with commas)"
+msgstr "标签 (用逗号分隔)"
+
+#. Text in function
+#: add-locations.php:1
+msgid "The General Address Format"
+msgstr "一般地址格式"
+
+#. Text in function
+#: db-importer/remoteConnect.php:1
+msgid "Try Again"
+msgstr "再试试"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Type&nbsp;Address"
+msgstr "输入地址"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "URL"
+msgstr "URL"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "URL<br><nobr>(Leave blank if importing from this server)</nobr>"
+msgstr "URL<br><nobr>(如果留空从该服务器导入)</nobr>"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Update"
+msgstr "更新"
+
+#. Text in function
+#: api-key.php:2
+msgid "Update API Key"
+msgstr "更新API Key"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "Update All"
+msgstr "全部更新"
+
+#. Text in function
+#: api-key.php:2
+msgid "Update Your Google API Key"
+msgstr "更新你的谷歌API Key"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Updater"
+msgstr "更新工具"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Username"
+msgstr "用户名"
+
+#. Text in function
+#: view-locations.php:2
+msgid "View"
+msgstr "查看"
+
+#. Text in function
+#: variables.sl.php:1
+msgid "View All Locations"
+msgstr "查看所有地点"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "View Locations"
+msgstr "查看位置"
+
+#. Text in function
+#: csv-xml-importer-exporter/export-links.php:1
+msgid "XML"
+msgstr "XML"
+
+#. Text in function
+#: db-importer/remoteConnect.php:1
+msgid "You May Only Use 'Select' Queries"
+msgstr "您可能只能使用 'Select'查询"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "You haven't activated this upgrade yet"
+msgstr "您还没有激活这个升级"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+msgid "You sure"
+msgstr "确定"
+
+#. Text in function
+#: api-key.php:2
+msgid "Your API Key Status"
+msgstr "您的API key状态"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Zip"
+msgstr "邮编"
+
+#. Text in function
+#: add-locations.php:1
+msgid "show/hide"
+msgstr "显示/隐藏"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Address "
+msgstr "地址"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "License Key"
+msgstr "许可证密钥"
+
+#. Text in function
+#: readme.php:1
+msgid "About Lots of Locales (LoL) Store Locator Plugin for WordPress"
+msgstr "更多关于 Locales (LoL)Store Locator的WordPress插件"
+
+#. Text in function
+#: map-designer.php:1
+msgid "Option"
+msgstr "选项"
+
+#. Text in function
+#: map-designer.php:1
+msgid "Value"
+msgstr "值"
+
+#. Text in function
+#: api-key.php:2
+msgid "Select Your Location"
+msgstr "选择你的位置"
+
+#. Text in function
+#: api-key.php:2
+msgid "Localization"
+msgstr "设定位置"
+
+#. Text in function
+#: multiple-field-update-form.php:2
+msgid "Multi-Update"
+msgstr "更多更新"
+
+#. Text in function
+#: multiple-field-update-form.php:2
+msgid "Update Selected"
+msgstr "更新选项"
+
+#. Text in function
+#: multiple-field-update-form.php:2
+msgid "Remove From Selected"
+msgstr "清除所选"
+
+#. Text in function
+#: news-upgrades.php:2
+msgid "Looking for more upgrades & themes"
+msgstr "寻找更多的升级和主题"
+
+#. Text in function
+#: news-upgrades.php:2
+msgid "It's all right here"
+msgstr "一切都在这里了"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Default Map Zoom Level"
+msgstr "默认的地图缩放级别"
+

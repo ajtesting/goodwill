@@ -1,0 +1,575 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Viadat Creations
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Viadat Creations <info@viadat.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: add-locations.php:5
+#: functions.sl.php:510
+#: view-locations.php:256
+msgid "Add Locations"
+msgstr "Voeg locatie toe"
+
+#: add-locations.php:26
+msgid "Successful Addition"
+msgstr "Succesvol toegevoegd"
+
+#: add-locations.php:80
+#: view-locations.php:180
+msgid "Type&nbsp;Address"
+msgstr "Adres invoegen"
+
+#: add-locations.php:83
+msgid "The General Address Format"
+msgstr "Algemeen adresformaat"
+
+#: add-locations.php:83
+msgid "show/hide"
+msgstr "toon/verberg"
+
+#: add-locations.php:84
+#: add-locations.php:88
+#: view-locations.php:182
+msgid "Name of Location"
+msgstr "Getoonde naam"
+
+#: add-locations.php:85
+msgid "Address (Street - Line1)"
+msgstr "Adres (Straat - Regel 1)"
+
+#: add-locations.php:86
+msgid "Address (Street - Line2 - optional)"
+msgstr "Adres (Straat - Regel 2)"
+
+#: add-locations.php:87
+msgid "City, State Zip"
+msgstr "Plaatsnaam, Provincie Postcode"
+
+#: add-locations.php:89
+#: view-locations.php:183
+msgid "Address"
+msgstr "Adres"
+
+#: add-locations.php:89
+#: view-locations.php:183
+msgid "Street - Line1"
+msgstr "Straat - Regel 1"
+
+#: add-locations.php:90
+#: view-locations.php:184
+msgid "Street - Line 2 - optional"
+msgstr "Straat - Regel 2 - optioneel"
+
+#: add-locations.php:91
+#: functions.sl.php:569
+#: view-locations.php:145
+#: view-locations.php:185
+msgid "City"
+msgstr "Plaats"
+
+#: add-locations.php:92
+#: functions.sl.php:570
+#: view-locations.php:146
+#: view-locations.php:186
+msgid "State"
+msgstr "Provincie"
+
+#: add-locations.php:93
+#: functions.sl.php:571
+#: view-locations.php:147
+#: view-locations.php:187
+msgid "Zip"
+msgstr "Postcode"
+
+#: add-locations.php:95
+#: functions.sl.php:573
+#: view-locations.php:151
+#: view-locations.php:191
+msgid "Description"
+msgstr "Omschrijving"
+
+#: add-locations.php:96
+#: view-locations.php:192
+msgid "Tags (seperate with commas)"
+msgstr "Trefwoorden"
+
+#: add-locations.php:97
+#: functions.sl.php:575
+#: view-locations.php:152
+#: view-locations.php:193
+msgid "URL"
+msgstr "URL"
+
+#: add-locations.php:98
+#: functions.sl.php:574
+#: view-locations.php:153
+#: view-locations.php:194
+msgid "Hours"
+msgstr "Openingstijden"
+
+#: add-locations.php:99
+#: functions.sl.php:576
+#: view-locations.php:154
+#: view-locations.php:195
+msgid "Phone"
+msgstr "Telefoon"
+
+#: add-locations.php:100
+#: view-locations.php:196
+msgid "Image URL (shown with location)"
+msgstr "Afbeeldings URL (wordt zichtbaar met de locatie)"
+
+#: add-locations.php:101
+msgid "Add Location"
+msgstr "Voeg locatie toe"
+
+#: api-key.php:15
+#: map-designer.php:34
+msgid "Successful Update"
+msgstr "Update succesvol"
+
+#: api-key.php:18
+msgid "Update Your Google API Key"
+msgstr "Update uw Google API Key"
+
+#: api-key.php:18
+msgid "Your API Key Status"
+msgstr "Uw API Key Status"
+
+#: api-key.php:24
+msgid "Please Update Your Google API Key"
+msgstr "Update uw Google API Key"
+
+#: api-key.php:27
+msgid "API Key Submitted"
+msgstr "API Key verstuurd"
+
+#: api-key.php:30
+#: functions.sl.php:513
+msgid "Google API Key"
+msgstr "Google API Key"
+
+#: api-key.php:30
+msgid "Get your Google API Key"
+msgstr "Haal uw Google API Key op"
+
+#: api-key.php:30
+msgid "You'll need to log in with your Google account on the page that opens up. If you don't have an account"
+msgstr "U moet met uw Google account inloggen op de pagina die opend. Alsu geen account heeft"
+
+#: api-key.php:30
+msgid "sign up here"
+msgstr "Registreer hier"
+
+#: api-key.php:42
+msgid "Select Your Location"
+msgstr "Selecteer uw locatie"
+
+#: api-key.php:107
+msgid "Select Character Encoding"
+msgstr "Selecteer Character Encoding"
+
+#: api-key.php:115
+#: map-designer.php:182
+#: view-locations.php:188
+msgid "Update"
+msgstr "Update"
+
+#: functions.sl.php:273
+msgid "Address "
+msgstr "Adres"
+
+#: functions.sl.php:274
+msgid "Received status "
+msgstr "Ontvangen status"
+
+#: functions.sl.php:506
+msgid "Store Locator"
+msgstr "Store Locator"
+
+#: functions.sl.php:508
+msgid "News & Upgrades"
+msgstr "Nieuws en Updates"
+
+#: functions.sl.php:509
+#: variables.sl.php:10
+#: view-locations.php:13
+msgid "Manage Locations"
+msgstr "Beheer locaties"
+
+#: functions.sl.php:511
+#: map-designer.php:36
+msgid "Map Designer"
+msgstr "Kaart Designer"
+
+#: functions.sl.php:513
+msgid "Localization"
+msgstr "Localisatie"
+
+#: functions.sl.php:516
+msgid "ReadMe"
+msgstr "LeesMij"
+
+#: functions.sl.php:557
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "Kies De Header Welke Overeenkomt Met De Kolomen Die U Wil Impoteren"
+
+#: functions.sl.php:557
+msgid "Leave headings for undesired columns unchanged"
+msgstr "Laat de header voor ongebruikte kolomen onveranderd"
+
+#: functions.sl.php:559
+#: functions.sl.php:598
+#: view-locations.php:188
+msgid "Cancel"
+msgstr "Cancel"
+
+#: functions.sl.php:559
+#: functions.sl.php:598
+msgid "Import Locations"
+msgstr "Importeer locaties"
+
+#: functions.sl.php:565
+msgid "Choose"
+msgstr "Kies"
+
+#: functions.sl.php:566
+#: view-locations.php:142
+msgid "Name"
+msgstr "Naam"
+
+#: functions.sl.php:567
+msgid "Street(Line1)"
+msgstr "Straat(Regel1)"
+
+#: functions.sl.php:568
+msgid "Street(Line2)"
+msgstr "Straat(Regel2)"
+
+#: functions.sl.php:572
+#: mgmt-buttons-links.php:16
+#: view-locations.php:148
+msgid "Tags"
+msgstr "Trefwoorden"
+
+#: functions.sl.php:577
+#: view-locations.php:155
+msgid "Image"
+msgstr "Afbeelding"
+
+#: functions.sl.php:578
+msgid "Is Private?"
+msgstr "Privé?"
+
+#: functions.sl.php:670
+msgid "You haven't activated this upgrade yet"
+msgstr "U heeft deze upgrade nog niet geactiveerd"
+
+#: functions.sl.php:670
+#: news-upgrades.php:135
+msgid "Activate"
+msgstr "Activeer"
+
+#: map-designer.php:36
+msgid "Designer"
+msgstr "Designer"
+
+#: map-designer.php:108
+msgid "Normal"
+msgstr "Normaal"
+
+#: map-designer.php:109
+msgid "Satellite"
+msgstr "Satelliet"
+
+#: map-designer.php:110
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: map-designer.php:111
+msgid "Physical"
+msgstr "Physical"
+
+#: map-designer.php:121
+msgid "Defaults"
+msgstr "Standaard"
+
+#: map-designer.php:122
+msgid "Choose Default Map Type Shown to Visitors"
+msgstr "Selecteer de standaard kaart welke wordt getoond"
+
+#: map-designer.php:124
+msgid "Allow User Search By City?"
+msgstr "Op plaats zoeken toestaan?"
+
+#: map-designer.php:126
+msgid "Show Map Inset Box?"
+msgstr "Kaart Inset Tonen?"
+
+#: map-designer.php:128
+msgid "Show Locations By Default When Map Loads?"
+msgstr "Locaties Tonen Wanneer De Kaart Wordt Geladen?"
+
+#: map-designer.php:130
+msgid "Number of Locations Shown By Default"
+msgstr "Aantal Getoonde Locaties"
+
+#: map-designer.php:131
+msgid "Recommended Max: 50"
+msgstr "Aanbevolen Max: 50"
+
+#: map-designer.php:134
+msgid "Allow User Search By Name of Location?"
+msgstr "Gebruiker Toestaan Om Op Locatie Naam Te Zoeken?"
+
+#: map-designer.php:136
+msgid "Labels"
+msgstr "Labels"
+
+#: map-designer.php:138
+msgid "Address Input Label"
+msgstr "Adres Invoer Label"
+
+#: map-designer.php:140
+msgid "Radius Dropdown Label"
+msgstr "Radius Dropdown Label"
+
+#: map-designer.php:142
+msgid "Website URL Label"
+msgstr "Website URL Label"
+
+#: map-designer.php:144
+msgid "Instruction Message to Users"
+msgstr "Instructie Bericht aan gebruikers"
+
+#: map-designer.php:149
+msgid "Dimensions"
+msgstr "Afmetingen"
+
+#: map-designer.php:150
+msgid "Zoom Level"
+msgstr "Zoom Niveau"
+
+#: map-designer.php:152
+msgid "Map Height"
+msgstr "Kaart Hoogte"
+
+#: map-designer.php:154
+msgid "Map Width"
+msgstr "Kaart Breedte"
+
+#: map-designer.php:156
+msgid "Radii Options<br>(in "
+msgstr "Radius Optie<br>(in "
+
+#: map-designer.php:157
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show</span>"
+msgstr "Scheid elk nummer met comma's ',' , en plaats haakjes '( )' om de te selecteren standaard waarde</span>"
+
+#: map-designer.php:158
+msgid "Distance Unit"
+msgstr "Lengte Maat"
+
+#: map-designer.php:159
+msgid "Kilometers"
+msgstr "Kilometers"
+
+#: map-designer.php:160
+msgid "Miles"
+msgstr "Miles"
+
+#: map-designer.php:169
+msgid "Design"
+msgstr "Design"
+
+#: map-designer.php:172
+msgid "Choose Theme"
+msgstr "Kies Theme"
+
+#: map-designer.php:172
+msgid "No Theme Selected"
+msgstr "Geen Theme Geselecteerd"
+
+#: map-designer.php:173
+msgid "Remove Credits"
+msgstr "Verwijder Credits"
+
+#: map-designer.php:175
+msgid "Home Icon"
+msgstr "Vertrekpunt Icoon"
+
+#: map-designer.php:177
+msgid "Destination Icon"
+msgstr "Bestemmings Icoon"
+
+#: map-designer.php:180
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "Wil je een uniek icoon hebben? Voor voorbeelden, bezoek"
+
+#: mgmt-buttons-links.php:5
+msgid "Delete Selected"
+msgstr "Verwijder Selectie"
+
+#: mgmt-buttons-links.php:5
+#: mgmt-buttons-links.php:16
+msgid "You sure"
+msgstr "Bent u zeker"
+
+#: mgmt-buttons-links.php:16
+msgid "Tag Selected"
+msgstr "Geselecteerd Trefwoord"
+
+#: mgmt-buttons-links.php:16
+msgid "Remove Tag From Selected"
+msgstr "Verwijder Trefwoord uit de sectie"
+
+#: news-upgrades.php:17
+msgid "Current Version"
+msgstr "Huidige Versie"
+
+#: news-upgrades.php:17
+msgid "Upgrade to Newest Version"
+msgstr "Upgrade naar de nieuwste Versie"
+
+#: news-upgrades.php:18
+msgid "(This upgrader preserves added themes, addons, images, icons, & language files as requested.  Remember to backup & check for upgrades often.)"
+msgstr "Deze upgrader behoudt uw eigen themes, addons, afbeedinge, iconen & talen Denk aan het regelmatig maken van een backup en check op upgrades"
+
+#: news-upgrades.php:34
+#, php-format
+msgid "Please make sure that %s is writable."
+msgstr "Verzeker u ervan dat %s beschrijfbaar is."
+
+#: news-upgrades.php:46
+msgid "Latest News"
+msgstr "Laatste Nieuws"
+
+#: news-upgrades.php:93
+msgid "Activation Keys"
+msgstr "Activatie Code"
+
+#: news-upgrades.php:121
+msgid "Key"
+msgstr "Code"
+
+#: news-upgrades.php:136
+msgid "Looking for more addons & themes"
+msgstr "Op zoek naar meerdere addons & themes"
+
+#: news-upgrades.php:136
+msgid "It's all right here"
+msgstr "Hier is het te vinden"
+
+#: news-upgrades.php:147
+msgid "Addons & Themes"
+msgstr "Addons & Themes"
+
+#: sl-update.php:83
+#, php-format
+msgid "Could not download distribution (%s)"
+msgstr "Kan de contributie niet downloaden (%s)"
+
+#: sl-update.php:86
+#, php-format
+msgid "Could not download distribution (%s): %s"
+msgstr "Kan de contributie (%s): %s niet downloaden"
+
+#: sl-update.php:93
+#, php-format
+msgid "Could not open %s for writing"
+msgstr "Kan %s niet beschrijven"
+
+#: sl-update.php:95
+#, php-format
+msgid "Please make sure %s is writable"
+msgstr "Verzeker u ervan dat %s beschrijfbaar is"
+
+#: sl-update.php:101
+#, php-format
+msgid "Could not write to %s"
+msgstr "Kan %s niet beschijven"
+
+#: sl-update.php:149
+msgid "Upgrade failed"
+msgstr "Upgrade mislukt"
+
+#: sl-update.php:157
+msgid "Great, successful upgrade."
+msgstr "Top, succesvolle upgrade"
+
+#: sl-update.php:159
+msgid "Return to Plugins page"
+msgstr "Ga terug naar Plugin pagina"
+
+#: via-latest.php:23
+msgid "Latest about Store Locator for WordPress"
+msgstr "Laatste nieuws over Store Locator voor WordPress"
+
+#: view-locations.php:102
+msgid "Current View"
+msgstr "Huidige aanzicht"
+
+#: view-locations.php:102
+msgid "Change View"
+msgstr "Verander aanzicht"
+
+#: view-locations.php:112
+msgid "Change"
+msgstr "Pas aan"
+
+#: view-locations.php:118
+msgid "Updater"
+msgstr "Updater"
+
+#: view-locations.php:118
+msgid "Change Updater"
+msgstr "Pas Updater aan"
+
+#: view-locations.php:140
+msgid "Actions"
+msgstr "Handelingen"
+
+#: view-locations.php:141
+msgid "ID"
+msgstr "ID"
+
+#: view-locations.php:143
+msgid "Street"
+msgstr "Straat"
+
+#: view-locations.php:144
+msgid "Street2"
+msgstr "Straat2"
+
+#: view-locations.php:225
+#: view-locations.php:226
+#: view-locations.php:227
+msgid "View"
+msgstr "Bekijk"
+
+#: view-locations.php:231
+msgid "Edit"
+msgstr "Aanpassen"
+
+#: view-locations.php:231
+msgid "Delete"
+msgstr "Verwijder"
+
+#: view-locations.php:255
+msgid "No Locations Showing for this Search of "
+msgstr "Geen locaties gevonden voor deze zoekopdracht"
+
+#: view-locations.php:255
+msgid "No Locations Currently in Database"
+msgstr "Geen locaties in de Database"
+

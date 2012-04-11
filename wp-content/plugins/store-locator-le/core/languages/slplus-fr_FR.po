@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Viadat Creations <info@viadat.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: api-key.php:2
+msgid "API Key Submitted"
+msgstr "La Clef d'API a été Soumise"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Actions"
+msgstr "Actions"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Activate"
+msgstr "Activez"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Add Location"
+msgstr "Ajoutez un Endroit"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Add Locations"
+msgstr "Ajoutez les Endroits"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "Addons & Themes"
+msgstr "Mises à Niveau et Thèmes"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Address (Street - Line 2 - optional)"
+msgstr "Adresse (La Rue - Ligne 2 - Facultative)"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Address (Street - Line1)"
+msgstr "Adresse (La Rue - Ligne 1)"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Address (Street - Line2 - optional)"
+msgstr "Adresse (La Rue - Ligne 2 - Facultative)"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Address Input Label"
+msgstr "Étiquette Pour l'Adresse"
+
+#. Text in function
+#: csv-xml-importer-exporter/export-links.php:1
+msgid "CSV"
+msgstr "CSV"
+
+#. Text in function
+#: csv-xml-importer-exporter/csv-import-form.php:1
+msgid "CSV&nbsp;Template"
+msgstr "Calibre&nbsp;de&nbsp;CSV"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "Cancel"
+msgstr "Annulation"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Change Updater"
+msgstr "Changez l'Outil de Mise a Jour"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Change View"
+msgstr "Changez La Vue"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Choose"
+msgstr "Choissisez"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "Choisissez le Titre Qui Assortit des Colonnes que Vous Voulez Importer"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Leave headings for undesired columns unchanged"
+msgstr "Ne changez pas les titres pour les Colonnes peu désirées"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Choose Theme"
+msgstr "Choissisez le Theme"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "City"
+msgstr "Ville"
+
+#. Text in function
+#: add-locations.php:1
+msgid "City, State Zip"
+msgstr "Ville, Etat, Code Postal"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Current View"
+msgstr "Vue Courante"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Database Name"
+msgstr "Nom de Base de Données"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Delete"
+msgstr "Supprimez"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+msgid "Delete Selected"
+msgstr "Supprimez de Choisir"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Description"
+msgstr "Description"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Destination Icon"
+msgstr "Icône de Destination"
+
+#. Text in function
+#: api-key.php:2
+msgid "Each API Key is unique to one web domain. To obtain a Google API Key for this domain ($_SERVER[HTTP_HOST]):<br><br><b>Step 1.</b> Log into your Google Account<br>(If you use any Google Product, such as Gmail, Google Docs, etc., then you have a Google Account. If not, <a href='https://www.google.com/accounts/' target='_blank'>you can sign up for one</a>) <br><br><b>Step 2.</b> Visit: <a href='http://code.google.com/apis/maps/signup.html' target='_blank'>http://code.google.com/apis/maps/signup.html</a> and submit your domain, and receive an API Key from Google"
+msgstr "Chaque clef d'API est unique à un domaine de Web. Pour obtenir une clef de Google API pour ce domaine ($_SERVER [HTTP_HOST]): <br><br><b> 1. En votre compte de Google <br>(si vous employez n'importe quel produit de Google, tel que Gmail, Docs de Google, etc., puis vous avez un compte de Google. Sinon,<a href='https://www.google.com/accounts/' target='_blank'>vous pouvez s'inscrire pour une</a>)  2. Visitez: <a href='http://code.google.com/apis/maps/signup.html' target='_blank'>http://code.google.com/apis/maps/signup.html</a> et soumettez votre domaine, et recevez une clef d'API de Google"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Edit"
+msgstr "Éditez"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Enter Google API Key"
+msgstr "Mettez la Clef Google API"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Enter Your Address or Zip Code Above"
+msgstr "Écrivez Votre Adresse ou Code Postal Ci-dessus"
+
+#. Text in function
+#: csv-xml-importer-exporter/export-links.php:1
+msgid "Export"
+msgstr "Exportation"
+
+#. Text in function
+#: api-key.php:2
+msgid "Google API Key"
+msgstr "La Clef de Google API"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Google's Terms of Use"
+msgstr "Limites d'Utilisation de Google"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Home Icon"
+msgstr "Icône de Début"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Host"
+msgstr "Centre serveur"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Hours"
+msgstr "Heures"
+
+#. Text in function
+#: view-locations.php:2
+msgid "ID"
+msgstr "ID"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "Image"
+msgstr "Image"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Image (shown on map with location)"
+msgstr "Image (montrée sur la carte avec l'endroit)"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+#: csv-xml-importer-exporter/csv-import-form.php:1
+msgid "Import"
+msgstr "Importation"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Import Locations"
+msgstr "Importez les Endroits"
+
+#. Text in function
+#: csv-xml-importer-exporter/csv-import-form.php:1
+msgid "Import&nbsp;CSV&nbsp;File"
+msgstr "Importez&nbsp;le&nbsp;Dossier&nbsp;de&nbsp;CSV"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Import&nbsp;From&nbsp;Local/Remote&nbsp;Database"
+msgstr "Importation&nbsp;en&nbsp;Provenance&nbsp;d'une&nbsp;Base&nbsp;de&nbsp;Données&nbsp;Locale/à&nbsp;Distance"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Is Private?"
+msgstr "Est-il Privé?"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "Latest News"
+msgstr "La Nouvelles"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "License Keys"
+msgstr "Clefs de Permis"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Location Name"
+msgstr "Nom de location"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "Regardez-vous pour créer ou trouver une icône unique? Pour des idées, visite"
+
+#. Text in function
+#: map-designer.php:2
+#: functions.sl.php:1
+msgid "Map Designer"
+msgstr "Concepteur de Carte"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Map Height"
+msgstr "Taille de Carte"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Map Radii Options (in miles)"
+msgstr "Options de Rayons de Carte (en milles)"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Map Width"
+msgstr "Largeur de Carte"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "Name"
+msgstr "Nom"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "News & Upgrades"
+msgstr "Nouvelles et Mises à Niveau"
+
+#. Text in function
+#: view-locations.php:2
+msgid "No Locations Currently in Database"
+msgstr "Aucuns Endroits Actuellement Dans la Base de Données"
+
+#. Text in function
+#: view-locations.php:2
+msgid "No Locations Showing for this Search of "
+msgstr "Aucuns Endroits Montrant Pour Cette Recherche de "
+
+#. Text in function
+#: map-designer.php:2
+msgid "No Theme Selected"
+msgstr "Aucun Thème Choisi"
+
+#. Text in function
+#: api-key.php:2
+msgid "Note: <br>"
+msgstr "Note:<br>"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show"
+msgstr "Note: Séparez chaque nombre avec une virgule ',' , et paratheseses mis '()' autour du rayon de défaut vous voudriez montrer"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Password"
+msgstr "Mot de Passe"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Phone"
+msgstr "Telephone"
+
+#. Text in function
+#: api-key.php:2
+msgid "Please Update Your Google API Key"
+msgstr "S.V.P, Mettez a Jour la Clef de Google API"
+
+#. Text in function
+#: variables.sl.php:1
+msgid "Preview Locator User Interface"
+msgstr "Visionnez l'Interface Utilisateurs du Trouveur"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Query (Only works with 'Select' Queries)"
+msgstr "Question (Seulement travaux avec 'Select' Questions)"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Radius"
+msgstr "Rayon"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "ReadMe"
+msgstr "Assistance"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Received status "
+msgstr "Statut Reçu"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+msgid "Remove Tag From Selected"
+msgstr "Enlevez étiquette de Choisir"
+
+#. Text in function
+#: point-click-add/point-click-add-form.php:1
+msgid "Search Zip or City & State to Center Map"
+msgstr "Recherchez le Code Postal ou la Ville et l'Etat Afin de Centrer la Carte"
+
+#. Text in function
+#: point-click-add/point-click-add-form.php:1
+msgid "Search,&nbsp;Click,&nbsp;Add"
+msgstr "Recherchez,&nbsp;Cliquez&nbsp;Sur,&nbsp;Ajoutez"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Show/Hide More Fields"
+msgstr "Montrez /  Cachez plus de Champs"
+
+#. Text in function
+#: csv-xml-importer-exporter/csv-import-form.php:1
+msgid "Skip 1st line of CSV file"
+msgstr "Sautez la 1ère ligne du dossier de CSV"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "State"
+msgstr "Etat"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Store Locator"
+msgstr "Trouveur d'Endroit"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Street"
+msgstr "Rue"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Street(Line1)"
+msgstr "Rue (Ligne 1)"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Street(Line2)"
+msgstr "Rue (Ligne 2)"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Street2"
+msgstr "Rue&nbsp;2"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Successful Addition"
+msgstr "Addition Réussie"
+
+#. Text in function
+#: map-designer.php:2
+#: api-key.php:2
+msgid "Successful Update"
+msgstr "Mise à Jour Réussie"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+msgid "Tag Selected"
+msgstr "Étiquetez de Choisir "
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "Tags"
+msgstr "Étiquettes"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Tags (seperate with commas)"
+msgstr "Étiquettes (Séparez avec des Virgules)"
+
+#. Text in function
+#: add-locations.php:1
+msgid "The General Address Format"
+msgstr "La Structure d'Adresse Générale"
+
+#. Text in function
+#: db-importer/remoteConnect.php:1
+msgid "Try Again"
+msgstr "Essai encore"
+
+#. Text in function
+#: add-locations.php:1
+msgid "Type&nbsp;Address"
+msgstr "Introduisez&nbsp;l'adresse"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "URL"
+msgstr "URL"
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "URL<br><nobr>(Leave blank if importing from this server)</nobr>"
+msgstr "URL<br><nobr> (Congé il vide si vous importez de ce serveur)</nobr>"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Update"
+msgstr "Mise à Jour"
+
+#. Text in function
+#: api-key.php:2
+msgid "Update API Key"
+msgstr "Mettez à Jour la Clef de Google API"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "Update All"
+msgstr "Mis a Jour Tout"
+
+#. Text in function
+#: api-key.php:2
+msgid "Update Your Google API Key"
+msgstr "Mettez à Jour Votre Clef de Google API"
+
+#. Text in function
+#: view-locations.php:2
+msgid "Updater"
+msgstr "Outil de Mise à Jour "
+
+#. Text in function
+#: db-importer/db-import-form.php:1
+msgid "Username"
+msgstr "Nom d'Utilisateur"
+
+#. Text in function
+#: view-locations.php:2
+msgid "View"
+msgstr "Regardez"
+
+#. Text in function
+#: variables.sl.php:1
+msgid "View All Locations"
+msgstr "Regardez Tous les Endroits"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+msgid "View Locations"
+msgstr "Regardez les Endroits"
+
+#. Text in function
+#: csv-xml-importer-exporter/export-links.php:1
+msgid "XML"
+msgstr "XML"
+
+#. Text in function
+#: db-importer/remoteConnect.php:1
+msgid "You May Only Use 'Select' Queries"
+msgstr "Vous pouvez seulement employer 'Select'"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "You haven't activated this upgrade yet"
+msgstr "Vous n'avez pas activé cette mise à niveau encore"
+
+#. Text in function
+#: mgmt-buttons-links.php:1
+msgid "You sure"
+msgstr "Êtes-vous sûr "
+
+#. Text in function
+#: api-key.php:2
+msgid "Your API Key Status"
+msgstr "Votre Statut Principal d'API"
+
+#. Text in function
+#: view-locations.php:2
+#: functions.sl.php:1
+#: add-locations.php:1
+msgid "Zip"
+msgstr "Code&nbsp;Postal"
+
+#. Text in function
+#: add-locations.php:1
+msgid "show/hide"
+msgstr "montrez/cachez"
+
+#. Text in function
+#: functions.sl.php:1
+msgid "Address "
+msgstr "Adresse"
+
+#. Text in function
+#: news-upgrades.php:20
+msgid "License Key"
+msgstr "La Clef de Permis"
+
+#. Text in function
+#: readme.php:1
+msgid "About Lots of Locales (LoL) Store Locator Plugin for WordPress"
+msgstr "Au Sujet du Lots of Locales Trouveur d'Endroit pour WordPress"
+
+#. Text in function
+#: map-designer.php:1
+msgid "Option"
+msgstr "Option"
+
+#. Text in function
+#: map-designer.php:1
+msgid "Value"
+msgstr "Valeur"
+
+#. Text in function
+#: api-key.php:2
+msgid "Select Your Location"
+msgstr "Choissisez Votre Endroit"
+
+#. Text in function
+#: api-key.php:2
+msgid "Localization"
+msgstr "Localisation"
+
+#. Text in function
+#: multiple-field-update-form.php:2
+msgid "Multi-Update"
+msgstr "Multiple-Mise-Ã -Jour"
+
+#. Text in function
+#: multiple-field-update-form.php:2
+msgid "Update Selected"
+msgstr "Mise Ã  Jour de Choisir"
+
+#. Text in function
+#: multiple-field-update-form.php:2
+msgid "Remove From Selected"
+msgstr "Enlevez de Choisir"
+
+#. Text in function
+#: news-upgrades.php:2
+msgid "Looking for more upgrades & themes"
+msgstr "Recherchez-vous plus de mises Ã  niveau et de thÃ¨mes"
+
+#. Text in function
+#: news-upgrades.php:2
+msgid "It's all right here"
+msgstr "Il est tout ici"
+
+#. Text in function
+#: map-designer.php:2
+msgid "Default Map Zoom Level"
+msgstr "Niveau de Bourdonnement de Carte de Défaut"
+

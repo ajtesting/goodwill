@@ -1,0 +1,29 @@
+/*
+* You can customise this css to your preferences
+*
+*/
+        
+        .error { border:1px solid #eee; background:#f9f9f9; padding:10px; margin-bottom:15px;}
+	.fbClear                  {zoom:1}
+        .fbClear:after            {clear: both;
+                            content: ".";
+                            display: block;
+                            font-size: 0;
+                            height: 0;
+                            line-height: 0;
+                            visibility: hidden;}
+ /*
+ *----------------------Specific to gallery----------------------------------------
+ */
+        .fbthumb {display:block; background-repeat: no-repeat;}
+        .fbMedThumb{display:inline-block;}
+        .fbboxbody { margin: 0; padding: 12px 10px 8px 10px; }
+  /*
+  *------------------Legacy -----------------------------------------------
+  */
+        .fbboxinfo { margin: 0 0 0 10px; padding: 10px; float:right; width:250px; border:1px solid #D8DFEA; background:#EDEFF4; tex-align:right; font-size:11px; }
+        .fbbox { margin:0 0 25px 0; padding:0; font-weight:bold; font-size: 12px; text-shadow: 0px 1px 0px #FFF; line-height:18px; border: none;  }
+	.fbbox a, .fbbox a { color:#3B5998;text-decoration:none; }
+	.fbbox a:hover, .fbbox a:hover { color:#3B5998;text-decoration:underline; }
+	.fbboxhead { margin: 0;  font-size: 17px; border-bottom: none; background: transparent; height:20px; }
+	.fbboxhead span { margin: 0; padding: 0px; font-size: 12px; }
